@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "datura", git: "https://github.com/CDRH/datura.git", tag: "v0.1.5"
+gem "datura", git: "https://github.com/CDRH/datura.git", branch: "feature/csv_webs_fields"
