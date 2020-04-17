@@ -1,7 +1,15 @@
-class CsvToEs
+class CsvToEsImage < CsvToEs
 
   def get_id
     @row["filename"]
+  end
+
+  def category
+    "image"
+  end
+
+  def subcategory
+    row["subcategory"]
   end
 
   def description

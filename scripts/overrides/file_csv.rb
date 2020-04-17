@@ -1,3 +1,5 @@
+require_relative "csv_to_es_film.rb"
+require_relative "csv_to_es_image.rb"
 
 class FileCsv < FileType
 
@@ -14,12 +16,11 @@ class FileCsv < FileType
   # would like to combine each row of the csv in question
   # with its archival record, if one exists
   def row_to_es(headers, row)
-    final_row = row
-    matching_row = @mega_metadata[row["filename"]]
-    if matching_row
-      final_row = matching_row.to_h.merge(row.to_h)
+    if self.filename(false) == "images"
+      row_to_es_image(headers, row)
+    else
+      row_to_es_film(headers, row)
     end
-    CsvToEs.new(final_row, options, @csv, self.filename(false)).json
   end
 
   private
@@ -51,6 +52,19 @@ class FileCsv < FileType
       "*.csv"
     )
     Dir[archives_path]
+  end
+
+  def row_to_es_film(header, row)
+    CsvToEsFilm.new(row, options, @csv, self.filename(false)).json
+  end
+
+  def row_to_es_image(header, row)
+    final_row = row
+    matching_row = @mega_metadata[row["filename"]]
+    if matching_row
+      final_row = matching_row.to_h.merge(row.to_h)
+    end
+    CsvToEsImage.new(final_row, options, @csv, self.filename(false)).json
   end
 
 end
