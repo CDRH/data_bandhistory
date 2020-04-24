@@ -48,7 +48,7 @@ class FileCsv < FileType
     archives_path = File.join(
       @options["collection_dir"],
       "source",
-      "archives",
+      "authority",
       "*.csv"
     )
     Dir[archives_path]
