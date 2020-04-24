@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: e9a7b962cce7723734fe57ba5c50c767cc9d16a7
-  branch: feature/csv_webs_fields
+  revision: e3dbc4f3f1460932a4823b7ce8a8cceff4e3e093
+  tag: v0.1.6
   specs:
-    datura (0.1.5)
+    datura (0.1.6)
       colorize (~> 0.8.1)
       nokogiri (~> 1.8)
       rest-client (~> 2.0.2)
