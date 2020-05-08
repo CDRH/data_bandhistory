@@ -13,8 +13,6 @@ class FileCsv < FileType
     @mega_metadata = combine_archives_data
   end
 
-  # would like to combine each row of the csv in question
-  # with its archival record, if one exists
   def row_to_es(headers, row)
     if self.filename(false) == "images"
       row_to_es_image(headers, row)
@@ -25,6 +23,8 @@ class FileCsv < FileType
 
   private
 
+  # would like to combine each row of the csv in question
+  # with its archival record, if one exists
   def combine_archives_data
     # read in all the spreadsheets in `source/archives` and create
     # a hash based on the identifiers
@@ -54,6 +54,10 @@ class FileCsv < FileType
     Dir[archives_path]
   end
 
+  def remove_empty_columns(row)
+    row.delete_if { |k,v| v.nil? || v.empty? || v == " " }
+  end
+
   def row_to_es_film(header, row)
     CsvToEsFilm.new(row, options, @csv, self.filename(false)).json
   end
@@ -62,7 +66,10 @@ class FileCsv < FileType
     final_row = row
     matching_row = @mega_metadata[row["filename"]]
     if matching_row
-      final_row = matching_row.to_h.merge(row.to_h)
+      # remove all empty elements of row to avoid
+      # overridding content with an empty thing
+      clean_row = remove_empty_columns(row)
+      final_row = matching_row.to_h.merge(clean_row)
     end
     CsvToEsImage.new(final_row, options, @csv, self.filename(false)).json
   end

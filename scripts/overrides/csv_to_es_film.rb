@@ -5,16 +5,16 @@ class CsvToEsFilm < CsvToEs
   end
 
   def category
-    "film"
+    "Sights & Sounds"
   end
 
   def subcategory
-    # TODO is there a subcategory for these? maybe decade?
+    "Footage"
   end
 
   def date(before=true)
     datestr = @row["Year Estimate"]
-    CommonXml.date_standardize(datestr, before)
+    Datura::Helpers.date_standardize(datestr, before)
   end
 
   def description
