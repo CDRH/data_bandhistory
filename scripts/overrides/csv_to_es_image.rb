@@ -115,6 +115,21 @@ class CsvToEsImage < CsvToEs
     "Images"
   end
 
+  def text_additional
+    [
+      @row["title"],
+      @row["description"],
+      @row["subject/topic"],
+      date,
+      @row["creator/photographer"],
+      @row["contributor/collector"]
+    ]
+  end
+
+  def uri_html
+    nil
+  end
+
   private
 
   def get_month_num(m_label)

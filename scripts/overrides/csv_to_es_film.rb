@@ -46,4 +46,13 @@ class CsvToEsFilm < CsvToEs
     # from his own project, in order to show up in CDRH search results
   end
 
+  def text_additional
+    [
+      @row["Year Estimate"],
+      @row["Description"],
+      @row["Keywords"],
+      @row["Sponsor"]
+    ]
+  end
+
 end
