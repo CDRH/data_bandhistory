@@ -66,8 +66,7 @@ class CsvToEsImage < CsvToEs
   end
 
   def image_id
-    # TODO will need full IIIF path
-    "#{@id}.jpg"
+    "photographs%2F#{@id}.jpg"
   end
 
   def publisher
@@ -124,6 +123,10 @@ class CsvToEsImage < CsvToEs
       @row["creator/photographer"],
       @row["contributor/collector"]
     ]
+  end
+
+  def topics
+    [ @row["topic"] ]
   end
 
   def uri_html

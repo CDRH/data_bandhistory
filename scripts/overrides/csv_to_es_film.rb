@@ -21,9 +21,12 @@ class CsvToEsFilm < CsvToEs
     @row["Description"]
   end
 
+  def format
+    "Film Clip"
+  end
+
   def image_id
-    # TODO will have to customize for thumbnail preview pic
-    "#{@id}.jpg"
+    "website%2F#{row["ID"]}.jpg"
   end
 
   def keywords
@@ -47,12 +50,22 @@ class CsvToEsFilm < CsvToEs
   end
 
   def text_additional
-    [
+    footage = [
       @row["Year Estimate"],
       @row["Description"],
       @row["Keywords"],
-      @row["Sponsor"]
+      @row["Sponsor"],
     ]
+    if @row["reel"]
+      reel = @row["reel"].to_h.values.join(" ")
+      footage << reel
+    end
+    footage
+  end
+
+  def title
+
+    "Footage from #{@row["Year Estimate"]}"
   end
 
 end

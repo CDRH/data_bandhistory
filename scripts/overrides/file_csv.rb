@@ -13,6 +13,55 @@ class FileCsv < FileType
     @mega_metadata = combine_archives_data
   end
 
+  # overriding this in order to build reels + footage HTML at the moment
+  # NOT used for images
+  def build_html_from_csv
+    if self.filename(false) == "footage"
+      build_footage_reels_html
+    else
+      puts "HTML generation not supported for #{self.filename(false)}"
+    end
+  end
+
+  def build_footage_reels_html
+    # need to combine the reels with the relevant footage
+    # and create a nice lil html page of them all
+    @csv.each_with_index do |row, index|
+      next if row.header_row?
+
+      # TODO revisit and clean this up?
+      reel_id = row["Archives Reel"]
+      reel = @mega_metadata[reel_id]
+      video_path = File.join(@options["media_base"], "video", @options["collection"], "footage", "#{row["ID"]}.mp4")
+      img_path = File.join(@options["media_base"],
+        "iiif/2", "bandhistory%2Fwebsite%2F#{row["ID"]}.jpg", "full", "!500,500", "0/default.jpg")
+
+      # using XML instead of HTML for simplicity's sake
+      builder = Nokogiri::XML::Builder.new do |xml|
+        xml.div(class: "main_content") {
+          xml.h1(row["Year"])
+          xml.video(controls: "", preload: "none", poster: img_path) {
+            xml.source(src: video_path, type: "video/mp4")
+            xml.p("Your browser doesn't support HTML5 video. Here is a <a href=\"#{video_path}\">link to the video</a> instead")
+          }
+          xml.h2("Footage Clip Information")
+          xml.ul {
+            @csv.headers.each do |header|
+              xml.li("#{header}: #{row[header]}")
+            end
+          }
+          xml.h2("Reel Information")
+          xml.ul {
+            reel.headers.each do |header|
+              xml.li("#{header}: #{reel[header]}")
+            end
+          }
+        }
+      end
+      write_html_to_file(builder, row["ID"])
+    end
+  end
+
   def row_to_es(headers, row)
     if self.filename(false) == "images"
       row_to_es_image(headers, row)
@@ -59,7 +108,10 @@ class FileCsv < FileType
   end
 
   def row_to_es_film(header, row)
-    CsvToEsFilm.new(row, options, @csv, self.filename(false)).json
+    # look up the reel associated with this clip and add it to the CSV row
+    reel_id = row["Archives Reel"]
+    row["reel"] = @mega_metadata[reel_id]
+    CsvToEsFilm.new(row, @options, @csv, self.filename(false)).json
   end
 
   def row_to_es_image(header, row)
@@ -71,7 +123,7 @@ class FileCsv < FileType
       clean_row = remove_empty_columns(row)
       final_row = matching_row.to_h.merge(clean_row)
     end
-    CsvToEsImage.new(final_row, options, @csv, self.filename(false)).json
+    CsvToEsImage.new(final_row, @options, @csv, self.filename(false)).json
   end
 
 end
