@@ -1,0 +1,32 @@
+# this file is used as a reference for which pages scrape for content
+# please update this list when adding new pages to Rails which are not
+# housed in this repository in another format
+
+# create configuration shortcuts for repeatedly
+
+accounts: &accounts
+  category: Stories
+  subcategory: Personal Accounts
+
+# specific paths which can be filled out as follows:
+#  - path: /path/to/content    (required field)
+#    identifier: bh.acc.001    (required field)
+#    category: Category        (encouraged field)
+#    subcategory: Subcategory  (encouraged field)
+
+paths:
+
+  # PERSONAL ACCOUNTS
+
+  - path: /stories/accounts/lentz
+    identifier: bh.acc.lentz
+    <<: *accounts
+  - path: /stories/accounts/johnson
+    identifier: bh.acc.johnson
+    <<: *accounts
+  - path: /stories/accounts/krejci
+    identifier: bh.acc.krejci
+    <<: *accounts
+  - path: /stories/accounts/steffens
+    identifier: bh.acc.steffens
+    <<: *accounts
