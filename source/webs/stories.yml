@@ -7,6 +7,9 @@
 accounts: &accounts
   category: Stories
   subcategory: Personal Accounts
+features: &features
+  category: Stories
+  subcategory: Features
 
 # specific paths which can be filled out as follows:
 #  - path: /path/to/content    (required field)
@@ -30,3 +33,8 @@ paths:
   - path: /stories/accounts/steffens
     identifier: bh.acc.steffens
     <<: *accounts
+
+  # FEATURES
+  - path: /stories/features/marches
+    identifier: bh.fea.marches
+    <<: *features

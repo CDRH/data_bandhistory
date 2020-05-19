@@ -9,7 +9,7 @@ class WebsToEs < XmlToEs
       "date" => "//@data-date",
       "date_display" => "//*[@data-field='date_display']",
       "person" => "//*[@data-person]",
-      "text" => "//body",
+      "text" => "//div[@id='content-wrapper']",
       "titles" => "//h1",
     }
   end
