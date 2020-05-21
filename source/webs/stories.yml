@@ -22,19 +22,19 @@ paths:
   # PERSONAL ACCOUNTS
 
   - path: /stories/accounts/lentz
-    identifier: bh.act.lentz
+    identifier: band.act.lentz
     <<: *accounts
   - path: /stories/accounts/johnson
-    identifier: bh.acc.johnson
+    identifier: band.act.johnson
     <<: *accounts
   - path: /stories/accounts/krejci
-    identifier: bh.acc.krejci
+    identifier: band.act.krejci
     <<: *accounts
   - path: /stories/accounts/steffens
-    identifier: bh.acc.steffens
+    identifier: band.act.steffens
     <<: *accounts
 
   # FEATURES
   - path: /stories/features/marches
-    identifier: bh.fea.marches
+    identifier: band.ess.marches
     <<: *features
