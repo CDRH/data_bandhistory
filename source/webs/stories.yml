@@ -22,7 +22,7 @@ paths:
   # PERSONAL ACCOUNTS
 
   - path: /stories/accounts/lentz
-    identifier: bh.acc.lentz
+    identifier: bh.act.lentz
     <<: *accounts
   - path: /stories/accounts/johnson
     identifier: bh.acc.johnson

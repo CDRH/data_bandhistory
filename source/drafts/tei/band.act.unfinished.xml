@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="band.stories.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Conversation with Rosemary Johnson, July 25, 2019</title>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="project">band.stories.0001</idno>
+<availability>
+<licence></licence>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title>Conversation with Rosemary Johnson</title>
+<date when="2019-07-25">July 25, 2019</date>
+<extent></extent>
+</bibl>
+<recordingStmt>
+<recording type="video" dur="P30M">
+<p></p>
+<respStmt>
+<resp>interviewee</resp>
+<name>Rosemary Johnson</name>
+</respStmt>
+<respStmt>
+<resp>interviewer</resp>
+<name>Jessica Dussault</name>
+</respStmt>
+<respStmt>
+<resp>interviewer</resp>
+<name>Tony Falcone</name>
+</respStmt>
+<equipment><p></p></equipment>
+<date when="2019-07-25"/>
+</recording>
+</recordingStmt>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<transcriptionDesc ident="HIAT"></transcriptionDesc>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Video transcription</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person xml:id="rj">
+<persName>Johnson, Rosemary</persName>
+<affiliation>University of Nebraska School of Music</affiliation>
+<education></education>
+<floruit>1978-</floruit>
+<occupation when="1978">Secretary</occupation>
+<occupation>Administrative Tech</occupation>
+<residence>Lincoln, Nebraska</residence>
+<sex>Female</sex>
+<note></note>
+</person>
+<person xml:id="jd">
+<persName>Dussault, Jessica</persName>
+</person>
+<person xml:id="tf">
+<persName>Falcone, Tony</persName>
+</person>
+<person></person>
+</listPerson>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020"><name>Dussaut, Jessica</name> transcription and encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="transcription">
+
+<div2>
+
+<sp who="jd"><speaker>Dussault</speaker>
+<p>Today is Thursday, July 25th, 2019. This is the start of an interview with Rose Johnson in Lincoln, Nebraska. My name is Jessica Dussault, I will be asking some questions assisted by Tony Falcone, the Director of the Cornhusker Marching Band. We'll be talking about Rose's career with the marching band and her family's connection to the ensemble, and this is being done as part of a website being launched on the band's history. So, thanks for talking with us!</p></sp>
+<sp who="rj"><speaker>Johnson</speaker>
+<p>It's a pleasure. It's a pleasure.</p></sp>
+<sp who="jd"><speaker>Dussault</speaker>
+<p>So I was wondering if you could just start by telling us a little about what you do now with the band.</p></sp>
+<sp who="rj"><speaker>Johnson</speaker>
+<p>Okay well, I primarily work with all aspects of the bands but I do a lot of travel arrangement for all of the athletic bands but also the ensembles for the School of Music. I coordinate the audition process, and contact the students, and make sure and track their auditions and make sure they have all the information they need and then Jan [Deaton] and I do the data processing and the contacting about what the second round auditions are gonna be. I help with scheduling on that and then I assist with the summer camps and then just in the day to day business. Do a lot of the students that are on campus visits, they come in and talk to me if they're interested in band. This last year I did a 140 of those.</p></sp>
+<sp who="jd"><speaker>Dussault</speaker>
+<p>Wow</p></sp>
+<sp who="rj"><speaker>Johnson</speaker>
+<p>Ha yeah that's a lot of fun, though. I really enjoy that. And especially if they're interactive so we kind of have a good visit, that's nice.</p></sp>
+
+<u>utterance</u>
+<pause/>
+<vocal></vocal>
+<kinesic></kinesic>
+<incident></incident>
+</div2>
+
+<div2>
+<head>Snider and Fought</head>
+
+
+</div2>
+
+</div1>
+</body>
+</text>
+</TEI>

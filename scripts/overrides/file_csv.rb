@@ -1,7 +1,9 @@
 require_relative "csv_to_es_film.rb"
 require_relative "csv_to_es_image.rb"
+require_relative "file_type_footage.rb"
 
 class FileCsv < FileType
+  include FileTypeFootage
 
   # overriding the initialization in order to read in
   # the supporting CSVs which provide more metadata
@@ -23,54 +25,15 @@ class FileCsv < FileType
     end
   end
 
-  def build_footage_reels_html
-    # need to combine the reels with the relevant footage
-    # and create a nice lil html page of them all
-    @csv.each_with_index do |row, index|
-      next if row.header_row?
-
-      # TODO revisit and clean this up?
-      reel_id = row["Archives Reel"]
-      reel = @mega_metadata[reel_id]
-      video_path = File.join(@options["media_base"], "video", @options["collection"], "footage", "#{row["ID"]}.mp4")
-      img_path = File.join(@options["media_base"],
-        "iiif/2", "bandhistory%2Fwebsite%2F#{row["ID"]}.jpg", "full", "!500,500", "0/default.jpg")
-
-      # using XML instead of HTML for simplicity's sake
-      builder = Nokogiri::XML::Builder.new do |xml|
-        xml.div(class: "main_content") {
-          xml.h1(row["Year"])
-          xml.video(controls: "", preload: "none", poster: img_path) {
-            xml.source(src: video_path, type: "video/mp4")
-            xml.p("Your browser doesn't support HTML5 video. Here is a <a href=\"#{video_path}\">link to the video</a> instead")
-          }
-          xml.h2("Footage Clip Information")
-          xml.ul {
-            @csv.headers.each do |header|
-              xml.li("#{header}: #{row[header]}")
-            end
-          }
-          xml.h2("Reel Information")
-          xml.ul {
-            reel.headers.each do |header|
-              xml.li("#{header}: #{reel[header]}")
-            end
-          }
-        }
-      end
-      write_html_to_file(builder, row["ID"])
-    end
-  end
-
   def row_to_es(headers, row)
     if self.filename(false) == "images"
       row_to_es_image(headers, row)
     else
-      row_to_es_film(headers, row)
+      row_to_es_footage(headers, row)
     end
   end
 
-  private
+  protected
 
   # would like to combine each row of the csv in question
   # with its archival record, if one exists
@@ -107,7 +70,7 @@ class FileCsv < FileType
     row.delete_if { |k,v| v.nil? || v.empty? || v == " " }
   end
 
-  def row_to_es_film(header, row)
+  def row_to_es_footage(header, row)
     # look up the reel associated with this clip and add it to the CSV row
     reel_id = row["Archives Reel"]
     row["reel"] = @mega_metadata[reel_id]
