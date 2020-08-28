@@ -1,0 +1,23 @@
+# this file is used as a reference for which pages scrape for content
+# please update this list when adding new pages to Rails which are not
+# housed in this repository in another format
+
+# create configuration shortcuts for repeatedly
+
+audio: &audio
+  category: Sights & Sounds
+  subcategory: Audio
+
+# specific paths which can be filled out as follows:
+#  - path: /path/to/content    (required field)
+#    identifier: bh.acc.001    (required field)
+#    category: Category        (encouraged field)
+#    subcategory: Subcategory  (encouraged field)
+
+paths:
+
+  # PERSONAL ACCOUNTS
+
+  - path: /multimedia/audio/on_parade
+    identifier: band.aud.onparade
+    <<: *audio

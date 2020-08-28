@@ -8,9 +8,10 @@ class WebsToEs < XmlToEs
     {
       "date" => "//@data-date",
       "date_display" => "//*[@data-field='date_display']",
+      "image_id" => "//@data-image",
       "person" => "//*[@data-person]",
       "text" => "//div[@id='content-wrapper']",
-      "titles" => "//h1",
+      "title" => "//h1",
     }
   end
 
