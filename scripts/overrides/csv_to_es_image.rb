@@ -25,24 +25,12 @@ class CsvToEsImage < CsvToEs
     Datura::Helpers.date_standardize(formatted, before)
   end
 
-  def subcategory
-    row["subcategory"]
-  end
-
-  def description
-    @row["description"]
-  end
-
   def image_id
     "photographs%2F#{@id}.jpg"
   end
 
   def publisher
     @row["publisher"] || @row["publisher/repository"]
-  end
-
-  def rights
-    @row["rights"]
   end
 
   def rights_holder

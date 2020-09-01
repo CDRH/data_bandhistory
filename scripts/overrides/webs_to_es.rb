@@ -10,6 +10,8 @@ class WebsToEs < XmlToEs
       "date_display" => "//*[@data-field='date_display']",
       "image_id" => "//@data-image",
       "person" => "//*[@data-person]",
+      "publisher" => "//*[@data-field='publisher']",
+      "source" => "//*[@data-field='source']",
       "text" => "//div[@id='content-wrapper']",
       "title" => "//h1",
     }
@@ -17,17 +19,6 @@ class WebsToEs < XmlToEs
 
   def category
     @options["webs"]["category"]
-  end
-
-  def date(before=true)
-    d = get_text(@xpaths["date"])
-    if d
-      Datura::Helpers.date_standardize(d, before)
-    end
-  end
-
-  def date_display
-    get_text(@xpaths["date_display"])
   end
 
   def person
@@ -51,6 +42,10 @@ class WebsToEs < XmlToEs
       end
     end
     all_p.uniq
+  end
+
+  def publisher
+    get_text(@xpaths["publisher"])
   end
 
   def subcategory

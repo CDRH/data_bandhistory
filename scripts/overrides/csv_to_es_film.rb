@@ -17,10 +17,6 @@ class CsvToEsFilm < CsvToEs
     Datura::Helpers.date_standardize(datestr, before)
   end
 
-  def description
-    @row["Description"]
-  end
-
   def format
     "Film Clip"
   end
@@ -34,7 +30,7 @@ class CsvToEsFilm < CsvToEs
   end
 
   def publisher
-    "University of Nebraska Archives and Special Collections"
+    "Archives & Special Collections, University of Nebraska-Lincoln Libraries"
   end
 
   def source
@@ -64,8 +60,12 @@ class CsvToEsFilm < CsvToEs
   end
 
   def title
-
     "Footage from #{@row["Year Estimate"]}"
+  end
+
+  def uri_html
+    # TODO temp override for local development
+    "http://localhost:5000/output/development/html/#{@id}.html"
   end
 
 end

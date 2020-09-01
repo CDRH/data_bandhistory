@@ -19,5 +19,5 @@ paths:
   # PERSONAL ACCOUNTS
 
   - path: /multimedia/audio/on_parade
-    identifier: band.aud.onparade
+    identifier: band.aud.on_parade
     <<: *audio
