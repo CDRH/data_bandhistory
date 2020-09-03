@@ -9,7 +9,7 @@ default:
 development:
   es_path: https://cdrhdev1.unl.edu/elastic
   es_index: cdrhapidev-v1
-  site_url: https://cdrhdev1.unl.edu/TODO
+  site_url: https://cdrhdev1.unl.edu/bandhistory_rails
   data_base: https://cdrhdev1.unl.edu/media
 
 # production:

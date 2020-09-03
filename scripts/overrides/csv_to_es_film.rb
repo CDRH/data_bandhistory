@@ -63,9 +63,4 @@ class CsvToEsFilm < CsvToEs
     "Footage from #{@row["Year Estimate"]}"
   end
 
-  def uri_html
-    # TODO temp override for local development
-    "http://localhost:5000/output/development/html/#{@id}.html"
-  end
-
 end
