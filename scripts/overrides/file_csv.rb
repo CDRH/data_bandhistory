@@ -15,8 +15,8 @@ class FileCsv < FileType
     @mega_metadata = combine_archives_data
   end
 
-  # overriding this in order to build reels + footage HTML at the moment
-  # NOT used for images
+  # overriding this in order to build reels + footage HTML
+  # NOT used for images, newspapers
   def build_html_from_csv
     if self.filename(false) == "footage"
       build_footage_reels_html
@@ -28,6 +28,8 @@ class FileCsv < FileType
   def row_to_es(headers, row)
     if self.filename(false) == "images"
       row_to_es_image(headers, row)
+    elsif self.filename(false) == "newspapers"
+      row_to_es_newspaper(headers, row)
     else
       row_to_es_footage(headers, row)
     end
@@ -87,6 +89,10 @@ class FileCsv < FileType
       final_row = matching_row.to_h.merge(clean_row)
     end
     CsvToEsImage.new(final_row, @options, @csv, self.filename(false)).json
+  end
+
+  def row_to_es_newspaper(header, row)
+    CsvToEsNewspaper.new(row, @options, @csv, self.filename(false)).json
   end
 
 end
