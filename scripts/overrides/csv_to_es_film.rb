@@ -17,6 +17,10 @@ class CsvToEsFilm < CsvToEs
     Datura::Helpers.date_standardize(datestr, before)
   end
 
+  def description
+    @row["Description"]
+  end
+
   def format
     "Film Clip"
   end
