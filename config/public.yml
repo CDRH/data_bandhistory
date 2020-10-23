@@ -15,3 +15,7 @@ development:
 # production:
   # limit processed files by adding allowed ids on newlines in a file
   # allowed_files: config/allowed.txt
+  es_path: https://cdrhapi.unl.edu/elastic
+  es_index: cdrhapi-v1
+  site_url: https://bandhistory.unl.edu
+
