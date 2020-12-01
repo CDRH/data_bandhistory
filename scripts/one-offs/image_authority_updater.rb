@@ -38,8 +38,6 @@ authority_files = {
   "130815" => "rg130815.csv",
   "130833" => "rg130833.csv",
   "421201" => "rg421201.csv",
-  "421202" => "rg421201.csv",
-  "421203" => "rg421201.csv",
   "" => "other-collections-partial.csv"
 }
 auth_lookup = {}
@@ -58,6 +56,10 @@ images.each do |image|
   #   replace in authority, remove from images
   if image["date"] || image["title"] || image["description"]
     type = image["filename"].split("-").first
+    # these identifiers are all in the same ucomm spreadsheet
+    if type == "421202" || type == "421203"
+      type = "421201"
+    end
     # for some reason, one UComm is in "other collections"
     if image["filename"] == "421202-pp6138"
       type = ""
