@@ -68,7 +68,10 @@
                 </keywords>
 
                 <keywords scheme="original" n="subcategory">
-                    <term>Papers &amp; Books</term>
+                    <term><!-- choose from:
+                        Drill
+                        Correspondence &amp; Papers
+                    --></term>
                 </keywords>
                 
                 <keywords scheme="lcsh" n="people">
