@@ -15,7 +15,7 @@ class CsvToEsNewspaper < CsvToEs
   end
 
   def category
-    "Sights & Sounds"
+    "Documents"
   end
 
   def date(before=true)
