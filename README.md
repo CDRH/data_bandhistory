@@ -26,7 +26,7 @@ bundle exec post -x html
 Typically, these should not be altered in this repository, but should be copied in from their original source.
 Contact Archives & Special Collections to get the latest copy of any of the CSV files which are labeled with numbers,
 a the number indicates the record group of the collection. These files contain the archives descriptions given to
-digitized images / scans from those collections.  `rg130815-reels.csv` contains the Luna information for the digitized
+digitized images / scans from those collections.  `rg570904-reels.csv` contains the Luna information for the digitized
 reels of footage.
 
 The personography file is maintained by the PIs in Box and should be downloaded from there is refreshing the contents.
@@ -36,7 +36,7 @@ This repository is the only place that file is currently maintained.
 
 ## CSV
 
-`footage.csv` (which refers to `rg130815-reels.csv`) and `images.csv` (which refers to any of the archive authority files)
+`footage.csv` (which refers to `rg570904-reels.csv`) and `images.csv` (which refers to any of the archive authority files)
 live here. `images.csv` contains "overriding" fields to correct values in the Archives records.
 
 When transforming `footage.csv` to HTML, it uses the reels fields to build a record of the footage clip and the metadata from
