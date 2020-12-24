@@ -44,14 +44,13 @@
         <bibl>
           <title type="m">University of Nebraska Band Manual</title>
           <date when="1937">1937</date>
-          <author></author>
+          <author>Ledwith, Charles</author>
           <note type="project"></note> 
         </bibl>
         <msDesc>
           <msIdentifier>
             <repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
             <collection>RG 57-09-04 Marching Band Records</collection>
-            <idno>130815-TODO</idno>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -93,7 +92,7 @@
 
   <text>
     <front>
-      <pb facs="band.doc.0002.001.tif"/>
+      <pb facs="570904-00070"/>
       <div1 type="cover">
         <ab>University of Nebraska <lb/>Band Manual</ab>
 
@@ -103,13 +102,13 @@
       </div1>
 
       <div1 type="dedication">
-        <pb facs="band.doc.0002.002.tif"/>
+        <pb facs="570904-00071"/>
         <ab>Library of the University of Nebraska</ab>
         <ab>Gift of</ab>
         <ab>Charles Ledwith</ab>
       </div1>
 
-      <pb facs="band.doc.0002.003.tif"/>
+      <pb facs="570904-00072"/>
       <titlePage>
         <docTitle>
           <titlePart>University of Nebraska <lb/>BAND MANUAL</titlePart>
@@ -133,7 +132,7 @@
         <docImprint>
           <publisher>Boomers Advertising Service
             <lb/>
-            Printig and Mimeographing
+            Printing and Mimeographing
             <lb/>
             Lincoln Nebraska
           </publisher>
@@ -148,7 +147,7 @@
         <div2 type="dedication">
 
 
-          <pb facs="band.doc.0002.004.tif"/>
+          <pb facs="570904-00073"/>
 
           <p>Dedicated to William T "Billy" Quick</p>
 
@@ -156,7 +155,7 @@
         </div2>
 
         <div2 type="contents">
-          <pb facs="band.doc.0002.005.tif"/>
+          <pb facs="570904-00074"/>
 
           <head>UNIVERSITY OF NEBRASKA
             <lb/>BAND MANUAL
@@ -201,7 +200,7 @@
           <p>The picture of Mr. Quick was sketched by Jean Tool.</p>
         </div2>
 
-        <pb facs="band.doc.0002.005.tif"/>
+        <pb facs="570904-00075"/>
 
         <div2 type="part" n="1">
           <head>PART I. THE MILITARY BAND</head>
@@ -229,9 +228,9 @@
               <p>c. Nebraska R.O.T.C. will seldom use <hi rend="underline">close order</hi>.</p>
 
               <p>6. DEFINITIONS. These terms are used in describing movements in the manual:
-                Alignment: Straight line upon which several individuals or ele-</p>
+                Alignment: Straight line upon which several individuals or <orig>ele-</orig><reg>elements</reg></p>
 
-                <pb facs="band.doc.0002.007.tif"/>
+                <pb facs="570904-00076"/>
 
                 <p>ments are formed, or are to be formed. The dress of several men on the same line.</p>
 
@@ -240,14 +239,12 @@
                 <p>Distance: Space between elements in the direction of deaths. Distance is measured from the back of the man in front to the best of the man in the rear; distance between bandsmen in formation is two paces (60 inches).</p>
                 <figure>
                   <label>Figure 1.</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>File: Bandsmen arranged in depth. An unoccupied position in a formation is termed a <hi rend="underline">blank file</hi>. Thus a file consists of all men having the same number in each rank (A1, B1, C1, and so on, as in figure 2, below), who are arranged one behind the other.</p>
 
                 <figure>
                   <label>Figure 2</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>Formation: Arrangement of bandsman in their assigned positions.</p>
@@ -264,7 +261,7 @@
 
                 <p>7. Band drill is executed by oral commands and by baton commands (called baton signals), which commands include two parts; the <hi rend="underline">prepara-</hi></p>
 
-                <pb facs="band.doc.0002.008.tif"/>
+                <pb facs="570904-00077"/>
 
                 <p><hi rend="underline">tory command</hi>, which indicates the movement, such as <hi rend="underline">Forward</hi>; and the <hi rend="underline">command of execution</hi>, such as <hi rend="underline">MARCH</hi>, which starts the execution. There should be a distinct interval between the two parts of commands. It is very important that a drum major time his signals to the fraction of a second, because the band will become accustomed to one way of executing a movement very readily, but will be slow to master a variety of different ways. All movements begin at the command of execution.</p>
 
@@ -285,7 +282,7 @@
 
                 <p>13. <hi rend="underline">AT EASE</hi> is the same as rest, except that silence is preserved. At 1. <hi rend="underline">Stand at</hi>, 2. <hi rend="underline">EASE</hi>, at the command of execution, move the left foot smartly 12 inches to the left of the right foot, and at the same time clasp hands behind the back, palms to the rear, thumb and fingers of the right hand clasp in the left thumb. Preserve silence and immobility. (Never used in band formation.)</p>
 
-                <pb facs="band.doc.0002.009.tif"/>
+                <pb facs="570904-00078"/>
 
                 <p>14. At 1. <hi rend="underline">Parade</hi>, 2. <hi rend="underline">REST</hi>, carry the right foot 6 inches straight to the rear and bend left knee slightly, weight of body resting equally on both feet. At the same time, clasp hands in front of center of body, left hand outermost, fingers straight, left thumb clasped by right hand. Preserve silence and immobility. (There is no occasion when the band executed this movement as a unit. However, it is well to understand this movement as it will be commanded in a review, parade, etc., immediately before the command <hi rend="underline">SOUND OFF</hi>.)</p>
 
@@ -310,7 +307,7 @@
 
                 <p>21. Partial changes in direction are ordered by adding the word "half" to the preparatory command, as: <hi rend="underline">Column half right</hi>. The change</p>
 
-                <pb facs="band.doc.0002.010.tif"/>
+                <pb facs="570904-00079"/>
 
 
                 <p>Of direction is 45° instead of 90°. Slight changes are executed at the command: <hi rend="underline">INCLINE TO THE RIGHT (LEFT)</hi>.</p>
@@ -331,7 +328,7 @@
 
                 <p>29. Being in march, to face to the right (left) in marching in advance: At the command of execution, given as the right (left) foot</p>
 
-                <pb facs="band.doc.0002.011.tif"/>
+                <pb facs="570904-00080"/>
 
                 <p>strikes the ground, advance and plant the left (right) foot. To turn to the right (left) on the ball of the left (right) foot, and at the same time step off in the new direction with the right (left) foot in a full or half step.</p>
 
@@ -359,7 +356,7 @@
 
 
 
-                <pb facs="band.doc.0002.012.tif"/>
+                <pb facs="570904-00081"/>
 
 
                 <p>the right (left) in marching, takes one full step to clear the way for the pivot man of the rank just in the rear, and then marches in the new direction at half step. All other men execute smart, precise right oblique until they are on the line with the original pivot file; they then execute the second right oblique, march up abreast of the pivot man and take up the half step. All succeeding ranks execute the movement on the same ground and in the same manner. Resume full step at the command Forward March.</p>
@@ -370,12 +367,11 @@
 
                 <figure>
                   <label>Figure 4.</label>
-                  <figDesc>TODO</figDesc>
                   <p>THE MODIFIED "WHEEL" TURN Partially completed.</p>
                   <p>(Every other rank in shaded circles.)</p>
                 </figure>
 
-                <pb facs="band.doc.0002.013.tif"/>
+                <pb facs="570904-00082"/>
 
 
                 <p>When the entire rank is turned in the new direction, it proceeds at a half step. The remainder of the band takes up the half step at the command of execution. All succeeding ranks execute the movement on the same ground and in the same manner. The pivot men will retain the regular distance from the rank in front until they have turned in the new direction, when they will immediately decrease it to half the regular distance; the correct distance will be regained as each rank completes the term. When the entire band is turned, it moves forward at a full step at the drum majors command.</p>
@@ -388,18 +384,16 @@
                 
                 <figure>
                   <label>Figure 5.</label>
-                  <figDesc>TODO</figDesc>
                   <p>(Shaded circles are men who have not executed movement.)</p>
                 </figure>
 
 
-                <p>34. The Irreversible Countermarch (see figure 6). To reverse the direction of march without altering the order in which the band is arranged from side to side (so that the right side of the band before countermarching will remain at the right side of the completion of the movement), the command is the same for the military coun-</p>
+                <p>34. The Irreversible Countermarch (see figure 6). To reverse the direction of march without altering the order in which the band is arranged from side to side (so that the right side of the band before countermarching will remain at the right side of the completion of the movement), the command is the same for the military <orig>coun-</orig><reg>countermarch</reg></p>
 
-                <pb facs="band.doc.0002.014.tif"/>
+                <pb facs="570904-00083"/>
 
                 <figure>
                   <label>Figure 6.</label>
-                  <figDesc>TODO</figDesc>
                   <p>(Odd-numbered files shown by shaded circles.)</p>
                   <p>(Dotted lines show paths to be followed.)</p>
                 </figure>
@@ -412,11 +406,10 @@
 
                 <p>36. At the command <hi rend="underline">HALT</hi>, given as the left foot strikes the ground in halting from Right Oblique, or as the right foot strikes the ground in halting from Left Oblique, advance and please plant the right (left) foot in the direction of the oblique, turn to the original front on the ball of the right (left) foot, and place the other foot alongside. Thus, on halting, the unit is faced to the original front.</p>
 
-                <pb facs="band.doc.0002.015.tif"/>
+                <pb facs="570904-00084"/>
 
                 <figure>
                   <label>Figure 7.</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>37. To resume the original direction without halting, the command is: 1. <hi rend="underline">Forward</hi>, 2. <hi rend="underline">MARCH</hi>. Each man faces half left in marching and continues in the original direction. If at a half step or mark time while obliquing, the oblique march is resumed at the command: 1. <hi rend="underline">Oblique</hi>, 2. <hi rend="underline">MARCH</hi>.</p>
@@ -425,15 +418,14 @@
 
                 <figure>
                   <label>Figure 8.</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
-                <pb facs="band.doc.0002.016.tif"/>
+                <pb facs="570904-00085"/>
                 <p>39. To Diminish the Interval Between Files. The command is: 1. <hi rend="underline">Decrease Front</hi>, 2. <hi rend="underline">MARCH</hi>. The movement is executed in a manner similar to Increase Front, the files obliquing a like number of steps towards the middle of the band, instead of away from the middle.</p>
 
                 <p>40. CAUTION. In the movements described above, the command of execution must be given at exactly the right time, as a particular foot strikes the ground in most cases. If this command is given between steps, or on the wrong foot, a ragged execution of the movement must result. Practice all of these movements out of ranks until you were able to execute each movement perfectly in any position in the band. Good drill is impossible unless every man correctly executes the fundamental movements.</p>
 
-                <p>41. Route Marches. The commands are: 1. <hi rend="underline">Route Step</hi>, 2. <hi rend="underline">MARCH</hi>; or: 1. <hi rend="underline">At Ease</hi>, 2. <hi rend="underline">MARCH</hi>. Regulations require the instruments be carried at the prescribed <hi rend="underline">carry</hi> positions. In R.O.T.C. band, this is not to be insisted upon. And neither of the Route Marches are the men required to keep step, but if marching At Ease, silence must be maintained. If halted while at Route Step, the band is At Rest; if halted while marching At Ease, the band is At Ease. To reestablish cadence, bringing the band to Attention, the command is: 1. <hi rend="underline">Band</hi>, 2. <hi rend="underline">ATTENTION</hi>. Drums commence to beat on the next count. Others take the cadence from teh drums.</p>
+                <p>41. Route Marches. The commands are: 1. <hi rend="underline">Route Step</hi>, 2. <hi rend="underline">MARCH</hi>; or: 1. <hi rend="underline">At Ease</hi>, 2. <hi rend="underline">MARCH</hi>. Regulations require the instruments be carried at the prescribed <hi rend="underline">carry</hi> positions. In R.O.T.C. band, this is not to be insisted upon. And neither of the Route Marches are the men required to keep step, but if marching At Ease, silence must be maintained. If halted while at Route Step, the band is At Rest; if halted while marching At Ease, the band is At Ease. To reestablish cadence, bringing the band to Attention, the command is: 1. <hi rend="underline">Band</hi>, 2. <hi rend="underline">ATTENTION</hi>. Drums commence to beat on the next count. Others take the cadence from the drums.</p>
               </div3> <!-- part 1 section 5 -->
 
               <div3 type="section" n="6">
@@ -456,7 +448,7 @@
 
                 <p>46. Baton signals are given from three positions, with which the band must be familiar, namely: a. <hi rend="underline">Order baton</hi>, b. <hi rend="underline">Carry baton</hi>, and</p>
 
-                <pb facs="band.doc.0002.017.tif"/>
+                <pb facs="570904-00086"/>
 
                 <p>c. <hi rend="underline">Port baton</hi>. The positions are described below and illustrated by inserts identified by letters. Only the <hi rend="underline">front view</hi> of the drum major is shown.</p>
 
@@ -464,20 +456,17 @@
 
                 <figure>
                   <label>a</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>b. <hi rend="underline">Carry baton</hi> is the habitual position of the baton when marching and the band is not playing, or when at a hault in open formation. The baton is carried between right upper arm and side, ball up and slightly inclined to front, right forearm nearly vertical, staff grasped between the thumb and first two fingers, third and fourth fingers being closed against palm of hand, back of hand to right, left hand on hip as in order baton.</p>
 
                 <figure>
                   <label>b</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>c. <hi rend="underline">Port baton</hi> is the habitual position of the baton when marching and the band is playing. Baton is held diagonally across body, ball down and to left, right hand close to and in front of chest, back of hand front, left hand on hip as in order baton.</p>
                 <figure>
                   <label>c</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>47. Baton signals include the same two parts as verbal commands (section II, paragraph 7), namely: a preparatory command and command of execution. The positions of the baton, sit out in the following paragraphs, supersede the word spoken. A whistle is used along with the baton for training purposes, one blast for each part of the command, but it's not necessary for most signals.</p>
@@ -486,45 +475,38 @@
 
                 <figure>
                   <label>d</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <figure>
                   <label>e</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>49. To stop the playing, the command is: 1. <hi rend="underline">Prepare to Cease Playing</hi>, 2. <hi rend="underline">CEASE PLAYING</hi> (inset f). The preparatory signal is the</p>
 
-                <pb facs="band.doc.0002.018.tif"/>
+                <pb facs="570904-00087"/>
 
                 <p>same baton position as for <hi rend="underline">Prepare to Play</hi> (inset e). The signal for <hi rend="underline">Cease Playing</hi> is given in three counts. At count one, the baton is brought across the body to an angle of 45° to the left, right elbow bent, right forearm forming a straight line with the ferrule. At count two, return to the same position as <hi rend="underline">Prepare to Cease Playing</hi>. At count three, bring the baton to port. The last note is played on count three. The signal may be given so that the music is stopped on either the first or second note of the measure.</p>
 
                 <figure>
                   <label>f</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>50. The signal for: 1. <hi rend="underline">Forward</hi>, 2. <hi rend="underline">MARCH</hi> is: 1. (Inset g) Extend right arm to its full length to front at an angle of 45°, baton being in prolongation of arm, ferrule to front. 2. (Inset H) Extend right arm upward to its full length, baton vertical and slightly in front of center of body, ferrule up. Step off on the next count. Drum major brings baton quickly to Port baton.</p>
 
                 <figure>
                   <label>g</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <figure>
                   <label>h</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <figure>
                   <label>i</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <figure>
                   <label>j</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
                 <p>51. The signal for: 1. <hi rend="underline">Band</hi>, 2. <hi rend="underline">HALT</hi>, is: 1. (Inset i) Executed from Port baton, lower ferrule to left, allowing staff to fall into raised left hand at height of shoulder, thumb to front, and raise baton horizontally above head with both hands, arms fully extended. It is well for the drum major to face the band when giving this signal. 2. <hi rend="underline">HALT</hi>. (inset j). Being in position above, lower baton quickly with both hands to height of hips, baton remaining horizontal.</p>
 
@@ -534,37 +516,32 @@
 
                 <figure>
                   <label>k</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <figure>
                   <label>l</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>54. The signal for: 1. <hi rend="underline">Column Half Right (Left)</hi>, 2. <hi rend="underline">MARCH</hi>, is the same as the signal described in paragraph 53, except that the baton is brought on a <hi rend="underline">horizontal</hi> plane to a position 45˚ to the right (left).</p>
 
-                <pb facs="band.doc.0002.019.tif"/>
+                <pb facs="570904-00088"/>
 
                 <p>55. <hi rend="underline">Correct Alignment</hi> (inset m) is assumed from <hi rend="underline">Port baton</hi> by lowering ferrule to left, allowing the staff to fall into raised left hand, and holding baton in a horizontal position at height of shoulders with both hands, thumbs to rear. The drum major faces the band was giving the signal. One short whistle blast commands the correction. The same position is used when marking time or at half step.</p>
 
                 <figure>
                   <label>m</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>56. The signal for: 1. <hi rend="underline">Increase Front</hi>, 2. <hi rend="underline">MARCH</hi>, is: 1. Preparatory signal (inset n), which is given by raising the ball of the baton with the right arm fully extended over head, staff sloping down at an angle of about 45˚, ferrule held by left hand at height of forehead. 2. Baton is brought to position of Correct Alignment (paragraph 55).</p>
 
                 <figure>
                   <label>n</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>57. The signal for: 1. <hi rend="underline">Decrease Front</hi>, 2. <hi rend="underline">MARCH</hi>, is: 1. Preparatory signal (inset o), which is given by raising the ferrule with the left arm fully extended overhead, staff sloping down at an angle of about 45°, ball of baton held by right hand at height of forehead. 2. Baton is brought position of Correct Alignment (paragraph 55).</p>
 
                 <figure>
                   <label>o</label>
-                  <figDesc>TODO</figDesc>
                 </figure>
 
                 <p>58. <hi rend="underline">SOUND OFF</hi>. Extend right arm to its full length and direction of staff as in <hi rend="underline">Prepare to Play</hi>, bring back baton to <hi rend="underline">Port baton</hi>. This movement is executed three times in normal playing time of three measures of the march about to be played. When <hi rend="underline">In Place</hi>, <hi rend="underline">SOUND OFF</hi> is ordered, only the 3 chords of one measure each are played.</p>
@@ -584,9 +561,9 @@
               <div3 type="section" n="9">
                 <head>IX. CEREMONIES AND INSPECTIONS</head>
 
-                <p>61. Regimental Parade. The only ceremony which the R.O.T.C. band is regularly required to perform is the Regimental Parade. The following are key commands: ONE. Regimental Adjutant's Call. Immed-</p>
+                <p>61. Regimental Parade. The only ceremony which the R.O.T.C. band is regularly required to perform is the Regimental Parade. The following are key commands: ONE. Regimental Adjutant's Call. <orig>Immed-</orig><reg>Immediately</reg></p>
 
-                <pb facs="band.doc.0002.020.tif"/>
+                <pb facs="570904-00089"/>
 
                 <p>iately after this call, the band plays for troops to assemble in parade formation. TWO. When the troops are dressed, the adjutant orders: 1. <hi rend="underline">Parade</hi>, 2. <hi rend="underline">REST</hi>. Battalion commanders repeat this command. THREE. As soon as TWO is executed, the adjutant commands: <hi rend="underline">SOUND OFF</hi>. Band plays the sound off (paragraph 58), steps off playing, marches the length of the field <hi rend="underline">in front of the adjutant</hi>, countermarches, returns, countermarches, halts in original position, stops playing, <hi rend="underline">repeats the sound off chords</hi>. FOUR. At evening parades, buglers then play <hi rend="underline">Retreat</hi>. Just before the last note, the adjutant comes to attention, orders: "Attention, Present Arms." Battalion commanders command: 1. Battalion, 2. <hi rend="underline">ATTENTION</hi>, 3. <hi rend="underline">Present</hi>, 4. <hi rend="underline">ARMS</hi>. When the last battalion has executed the command, the band plays the National Anthem. FIVE. Adjutant orders: 1. <hi rend="underline">Order</hi>, 2. <hi rend="underline">ARMS</hi>. This is executed at the command of battalion commanders. When the adjutant commands: 1. <hi rend="underline">Officers</hi>, 2. <hi rend="underline">CENTER</hi>, 3. <hi rend="underline">MARCH</hi>, the band starts to play at drum major's signal when the command <hi rend="underline">MARCH</hi>, is given, and continues to play until the last officer has returned to his place in his battalion. However, when the officers are halted six paces in front of the reviewing officer, the volume of playing is diminished considerably, and increased again as soon as the command <hi rend="underline">MARCH</hi>, is given in: 1. <hi rend="underline">Officers</hi>, 2. <hi rend="underline">POSTS</hi>, 3. <hi rend="underline">MARCH</hi>. SIX. The adjutant then command: <hi rend="underline">PASS IN REVIEW</hi>. The band moves forward or out of position, its full length without drums, and halts at the drum major's command. As the first battalion commander orders: 1. <hi rend="underline">Leading Platoon</hi>, 2. <hi rend="underline">Right by Squads</hi>, or other command, drum major gives the signal for: 1. <hi rend="underline">Ready Instruments</hi>, 2. <hi rend="underline">Prepare to Play</hi>. When the battalion commander gives the command: 3. <hi rend="underline">MARCH</hi>, the band steps off on the next count, drum major giving the signal for: 3. <hi rend="underline">PLAY</hi>, when he hears the command <hi rend="underline">MARCH</hi>. As the band passes the reviewing stand, drum major salutes. The band is then brought around to face the reviewing stand by three successive Column Left movements, and continues to play when halted until the last unit has completely passed the reviewing stand. The drum major must salute the colors when they pass.</p>
 
@@ -609,7 +586,7 @@
 
             <div2 type="part" n="2">
 
-              <pb facs="band.doc.0002.021.tif"/>
+              <pb facs="570904-00090"/>
 
               <head>PART II. THE FOOTBALL BAND</head>
 
@@ -621,18 +598,16 @@
 
               <figure>
                 <label>Figure 9. "Block Left Turn."</label>
-                <figDesc>TODO</figDesc>
               </figure>
 
               <p>This movement may be imitated in "block" countermarch, marching half-way around the squares, instead of a quarter of the way. In this instance the square of the band may be taken from ranks nearest the center. The remaining men may be split into four groups, so that one half of the ranks ahead of the square go to the rear around the right side and the other half around the left side; one half of the ranks</p>
 
-              <pb facs="band.doc.0002.022.tif"/>
+              <pb facs="570904-00091"/>
 
               <p>to the rear of the square go to the front around either side. The direction in which the squares march may be alternated so that each square goes in the opposite direction to the one on either side of it. This is illustrated in figure 10.</p>
 
               <figure>
                 <label>Figure 10. "Block" Countermarch</label>
-                <figDesc>TODO</figDesc>
               </figure>
 
 
@@ -640,10 +615,9 @@
 
               <figure>
                 <label>Figure 11. "6 X 16" Formation.</label>
-                <figDesc>TODO</figDesc>
               </figure>
 
-              <pb facs="band.doc.0002.023.tif"/>
+              <pb facs="570904-00092"/>
 
 
               <p>The movements which are executed from the "6 X 16" formation are customarily explained on instruction cards. It can be stated generally that this formation is executed in the exact center of the football field. A portion of the men in the formation face one goal line and another portion face the opposite goal line. Some of the center may remain in place. Groups of men forming various letters take a given number of steps. When thus in place, a signal is given for the entire word to be formed simultaneously.</p>
@@ -661,7 +635,7 @@
               <p>At the completion of this maneuver, the band marked time facing east. The next formation was "PITT", spelled by the varsity band in large double-line letters animated by marching to music around the outline of the letters. The information necessary for this formation has been condensed into one sheet and appears here as figure 13, page 22. It is self-explanatory.</p>
 
 
-              <pb facs="band.doc.0002.024.tif"/>
+              <pb facs="570904-00093"/>
 
               <p>These instructions having been carried out, the band returned to band formation. Then maneuvered into "6 X 16" (page 18). Then the band formed "HUSKERS" following instructions on page 23, figure 14. The band commenced playing <hi rend="underline">There Is No Place Like Nebraska</hi>, then returned to "6 X 16". This is number 6 on the game plan.</p>
 
@@ -675,7 +649,7 @@
 
               <p>Such a program as that just described is more complicated than necessary to provide an entertaining future at football games. A simpler program with less difficult formations is not only easier to design in the first place, but also requires less practice to master it and involves less chance for error. There is a practical limit to what can be done by a band. If a word has more than four or five letters, it will be thin when spelled by the band, and hence less legible than a word of six or seven letters. The "HUSKERS" formation might be criticized on that ground, although photographs made of the Pittsburgh game program show that this formation was legible.</p>
 
-              <pb facs="band.doc.0002.025.tif"/>
+              <pb facs="570904-00094"/>
 
               <figure>
                 <label>Figure 12. PITT GAME PLAN, November 14, 1936</label>
@@ -702,7 +676,7 @@
                 <p>11. After last note of "Stars and Stripes", Varsity drums only count 4 counts tacit, then play on 5th count. All step off. Form on respective drum majors. When in place, at D M COMMAND: Varsity move to stands via track; Junior move to stands directly.</p>
               </figure>
 
-              <pb facs="band.doc.0002.026.tif"/>
+              <pb facs="570904-00095"/>
 
               <figure>
                 <label>Figure 13.</label>
@@ -717,25 +691,24 @@
                 <p>4th SHOT: Return to places in band you had before the first signal, going shortest route.</p>
               </figure>
 
-              <pb facs="band.doc.0002.027.tif"/>
+              <pb facs="570904-00096"/>
 
               <figure>
                 <label>Figure 14. Start in "6 X 16". Your group encircled in red. AT FIRST SHOT SIGNAL:</label>
                 <p>TODO TEXT</p>
               </figure>
 
-              <pb facs="band.doc.0002.028.tif"/>
+              <pb facs="570904-00097"/>
 
               <figure>
                 <label>Figure 15.</label>
-                <figDesc>TODO</figDesc>
               </figure>
 
-              <pb facs="band.doc.0002.029.tif"/>
+              <pb facs="570904-00098"/>
 
               <p>TODO FORGOT TO SCAN THIS PAGE</p>
 
-              <pb facs="band.doc.0002.029.tif"/>
+              <pb facs="570904-00099"/>
 
               <p>completion of the formation, the first three ranks reformed, marched to the front throught he muzzle, which had spread to permit passage. All others fell into place quickly.</p>
 
@@ -743,10 +716,9 @@
 
               <figure>
                 <label>Figure 17.</label>
-                <figDesc>TODO</figDesc>
               </figure>
 
-              <pb facs="band.doc.0002.030.tif"/>
+              <pb facs="570904-00100"/>
 
               <figure>
                 <label>Figure 18.</label>
@@ -754,21 +726,23 @@
 
                 <p>AT D M COMMAND: Start to play trio of <hi rend="underline">U. S. FIELD ARTILLERY</hi>. Men in wheel only step off causing wheel to revolve around hub so that rim is moving at full step. On 2nd time thru trio, sing out following words:</p>
 
-                <l>Over hill, over dale, we will hit the dusty trail,</l>
-                <l>As the caisons go rolling along.</l>
-                <l>Up and down, in and out, countermarch and left about,</l>
-                <l>As the caisons go rolling along.</l>
-                <l>For it's High High He in the Field Artillery,</l>
-                <l>Shout out your numbers loud and strong, <hi rend="underline">two</hi>, <hi rend="underline">three</hi>, <hi rend="underline">four</hi>;</l>
-                <l>Where'er you go, you will always know</l>
-                <l>That the caisons go rolling along.</l>
+                <lg>
+                  <l>Over hill, over dale, we will hit the dusty trail,</l>
+                  <l>As the caisons go rolling along.</l>
+                  <l>Up and down, in and out, countermarch and left about,</l>
+                  <l>As the caisons go rolling along.</l>
+                  <l>For it's High High He in the Field Artillery,</l>
+                  <l>Shout out your numbers loud and strong, <hi rend="underline">two</hi>, <hi rend="underline">three</hi>, <hi rend="underline">four</hi>;</l>
+                  <l>Where'er you go, you will always know</l>
+                  <l>That the caisons go rolling along.</l>
+                </lg>
               </figure>
 
               <p>Play trio third time and stop. Drums commence the beat. At 3rd SHOT SIGNAL:Lower part of muzzle above to right so that men in the spokes may pass through to form on DM.</p>
             </div2> <!-- part 2 -->
 
             <div2 type="part" n="3">
-              <pb facs="band.doc.0002.031.tif"/>
+              <pb facs="570904-00101"/>
 
               <head>PART III MUSIC SUPPLEMENT</head>
 
@@ -783,30 +757,30 @@
 
               <p>"NO PLACE"</p>
 
-              <pb facs="band.doc.0002.032.tif"/>
+              <pb facs="570904-00102"/>
 
-              <pb facs="band.doc.0002.033.tif"/>
+              <pb facs="570904-00103"/>
 
               <p>FIGHT SONG</p>
 
               <p>CORNHUSKER</p>
 
-              <pb facs="band.doc.0002.034.tif"/>
+              <pb facs="570904-00104"/>
 
               <p>U - 3</p>
 
-              <pb facs="band.doc.0002.035.tif"/>
+              <pb facs="570904-00105"/>
 
               <p>RETREAT</p>
 
-              <pb facs="band.doc.0002.036.tif"/>
+              <pb facs="570904-00106"/>
 
               <p>OFFICER'S CALL</p>
               <p>CAPTAIN'S CALL</p>
               <p>FIRST CALL</p>
               <p>ASSEMBLY</p>
 
-              <pb facs="band.doc.0002.037.tif"/>
+              <pb facs="570904-00107"/>
 
               <p>ADJUTANT'S CALL</p>
 
@@ -822,7 +796,7 @@
 
               <p>NO. 5 THE FLAM ACCENT</p>
 
-              <pb facs="band.doc.0002.038.tif"/>
+              <pb facs="570904-00108"/>
 
               <p>NO 6 THE FLAMADIDDLE</p>
 
@@ -842,6 +816,7 @@
 
             </div2>
           </div1>
+          <pb facs="570904-00108"/>
         </body>
       </text>
     </TEI>
