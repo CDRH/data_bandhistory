@@ -28,9 +28,9 @@ paths:
     identifier: band.act.johnson
     <<: *accounts
   # commenting until this section is live
-  # - path: /stories/accounts/krejci
-  #   identifier: band.act.krejci
-  #   <<: *accounts
+  - path: /stories/accounts/krejci
+    identifier: band.act.krejci
+    <<: *accounts
   - path: /stories/accounts/steffens
     identifier: band.act.steffens
     <<: *accounts
