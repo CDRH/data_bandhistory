@@ -14,11 +14,17 @@ class CsvToEsFilm < CsvToEs
 
   def date(before=true)
     datestr = @row["Year Estimate"]
+    # hard coding solution for one with range of years
+    datestr = datestr[/^\d{4}/]
     Datura::Helpers.date_standardize(datestr, before)
   end
 
+  def date_display
+    @row["Year Estimate"]
+  end
+
   def description
-    @row["Description"]
+    @row["Short Description"]
   end
 
   def format
