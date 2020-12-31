@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0003">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Americus, Mitchell to Executive Dean on Concert Band Petition</title>
+<title type="sub"></title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0003</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note/>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<title type="m">Americus, Mitchell to Executive Dean on Concert Band Petition</title>
+<date when="1922-01-26">January 26, 1922</date>
+<author/>
+<note type="project"/>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
+<collection>RG 051001 Samuel Avery, Correspondence, Chancellor Records</collection>
+<idno>Box 1, Folder 5</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Correspondence &amp; Papers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Mitchell, Americus</term>
+<term>Quick, W. T.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords">
+<term>Concert</term>
+<term>Uniform &amp; Equipment</term>
+<term>Fundraising &amp; Finance</term>
+<term>Military</term>
+<term>Other Band</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="document">
+<pb facs="band.doc.0003.001"/>
+<opener>
+  From: Professor of Military Science and Tactics.
+  <lb/>
+  To: The Executive Dean.
+  <lb/>
+  Subject: Petition for formation of a "University Concert Band".
+</opener>
+
+<p>With reference to the petition for the formation of a second band in the University, the petition being undated but presumably presented to the authorities during the first semester, I submit, upon your request, the following works, which I believe to be pertinent:</p>
+
+<p>1. The statement therein with reference to the "policy of the Military Department" is wholly erroneous. Applicants for the band are pronounced "fit" by the Director, Mr. Quick, before they are accepted in the band, and within the past few days, several applicants have been refused at this office, being told that there was a sufficient number of minute present in the band.</p>
+
+<p>2. Attention is invited to the slurring statement therein with reference to underclassmen where it is stated that xxx "and also by a few underclassmen who register for band to avoid military drill and who have little real interest in the band other than that". This attempt to cast a slur upon the motives of these underclassmen is uncalled for, to say the least.</p>
+
+<p>3. The withdrawal from the band of the upperclassman signing this petition, while it will injure, to a certain extent, the ability of the band to give concerts, will, it is believed, affect but for a very short time it's ability to play "march music", and will certainly not adversely affect its discipline.</p>
+
+<p>4. With reference to par. VI of the petition, if a new band be formed, it is not believed that it should be allowed to take unto itself all of the "privileges and practices now enjoyed by the Cadet Band, such as as foot-ball trips, Spring trips and other University functions or public appearances non-military in nature". It is believed that appearances at such functions might well be divided between the the two bands, as the proper University authorities may direct, and also that at such functions as foot-ball games, etc., both bands might well play. If two bands exist, it is thought that a certain amount of friendly competition would increase rather than diminish the efficiency of both.</p>
+
+<pb facs="band.doc.0003.002"/>
+
+<p>5. It is stated in the petition that "In addition to this Monday night drill, the Military Department requires the services of the whole band in military parades, reviews and ensemble drill with the cadets once a week during warm weather". The present Professor of Military Science and Tactics does expect the whole band to turn out for military parades, etc., once each week during warm weather, but he expected this to count as one of the three hours of band duty each ewek and as the "drill" hour for those upper-classmen who have already their required military credits. It is difficult to see just what benefit the R.O.T.C. would derive from the presence of said upperclassmen in the band, if they did not attend said parades, etc., while the United States has been and is still furnishing their uniforms.</p>
+
+<p>6. On page 4 of the petition under the heading, "upperclassmen <hi rend="underline">now</hi> in the Cadet Band who desire to form the Concert Band, and express their intention of <hi rend="underline">dropping</hi> the Cadet Band at the end of <hi rend="underline">this semester</hi> under present conditions", are twenty-five (25) names. It is presumed that this petition was written during the First Semester and that the semester mentioned in the above quotiation is the second semester. From the records of this office, it seems that six of these men did not belong to the band at the end of the first semester, in fact that three (3) of these six did not register for the band at all during the first semester. Thirteen (13) of the <hi rend="underline">others</hi> are shown in said records as having registered for <hi rend="underline">"band"</hi> for the <hi rend="underline">second semester</hi>. This accounts for 19 of the 25 men, and the records of this office appear to be very much at variance with the statement on page 4 of the petition.</p>
+
+<p>7. it is true that the R.O.T.C. band has been used for "bally hoo" purposes, i. e., for getting students out for football rallies, parades, escorting athletic teams to and from trains, etc., but that has not been considered an objectional feature. It was thought that the upperclassmen as well as the underclassmen were only too glad to assist in arousing enthusiasm for their "Alma Mater".</p>
+
+<p>8. It is desired very much by this Department, by higher R.O.T.C. authority, and by the R.O.T.C. Cadets of the University, that change be made for the next scholastic year to a Commutation basis, the full details of which will be presented to the University authorities for decision in about three weeks. Under the present R.O.T.C. Regulations commutation would not be paid by the Government for any man who is not taking the basic or advanced course R.O.T.C.</p>
+
+<p>9. Inviting attention especially to paragraphs 3 and 4 above, this Department has no objection whatever to the withdrawal from the Band by the upperclassmen nor to the formation by them of a new band.</p>
+
+<closer>
+<signed>
+Americus Mitchell
+</signed>
+Americus Mitchell,
+<lb/>
+Colonel, Infantry, (D.O.L.)
+</closer>
+</div1>
+
+</body>
+</text>
+</TEI>
