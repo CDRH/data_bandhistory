@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0005">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Press and Radio Texas - Nebraska 1959</title>
+<title type="sub"></title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0005</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title type="m">Press and Radio Texas - Nebraska 1959</title>
+<date when="1959-09-19">September 19, 1959</date>
+<author></author>
+<note type="project"></note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
+<collection>RG 570903 Jack Snider Marching Band Records</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Drill &amp; Programs
+</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Bible, Dana X.</term>
+<term>Lentz, Donald A.</term>
+<term>Snider, Jack</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<div1 type="document">
+<pb facs="570903-00018"/>
+<p>PRESS AND RADIO
+<lb/>TEXAS * NEBRASKA * SEPTEMBER 19, 1959
+<lb/>The University of Nebraska Band salutes:
+<lb/>THE UNIVERSITY OF TEXAS
+</p>
+
+<table rows="5" cols="4">
+<row role="label">
+<cell role="data">SYMBOL</cell>
+<cell role="data">EXPLANATION</cell>
+<cell role="data">MUSIC</cell>
+<cell role="data">CARD</cell>
+</row>
+<row role="data">
+<cell role="data"></cell>
+<cell role="data">The band presents a short precision drill</cell>
+<cell role="data">"On the Square"</cell>
+<cell role="data">Luck '59</cell>
+</row>
+<row role="data">
+<cell role="data"></cell>
+<cell role="data">A concert number to the West Stands.</cell>
+<cell role="data">"Grandioso"</cell>
+<cell role="data"></cell>
+</row>
+<row role="data">
+<cell role="data"></cell>
+<cell role="data">A concert number to the East Stands.</cell>
+<cell role="data">"Mister Touchdown U.S.A."</cell>
+<cell role="data">[drawing of football]</cell>
+</row>
+<row role="data">
+<cell role="data">[drawing of longhorn]</cell>
+<cell role="data">A Texas Steer</cell>
+<cell role="data">"The Eyes of Texas"</cell>
+<cell role="data">[drawing of longhorn]</cell>
+</row>
+<row role="data">
+<cell role="data">TEXAS</cell>
+<cell role="data">D.X. Bible former Nebraska Coach and Athletic Director Ameritus is presented to the crowd.</cell>
+<cell role="data">"Yellow Rose of Texas"</cell>
+<cell role="data">Bible</cell>
+</row>
+<row role="data">
+<cell role="data">NU</cell>
+<cell role="data">Texas merges into N U which moves down the field.</cell>
+<cell role="data">"Dear Old Nebraska U."</cell>
+<cell role="data">NU</cell>
+</row>
+</table>
+
+<p>Donald A. Lentz, Director of University Bands
+<lb/>Jack Snider, Drill Instructor
+<lb/>Wesley Reist, Assistant
+<lb/>John Moran, Public Address
+<lb/>Terry Boyes, Chief Drum Major
+<lb/>Bob Force, Assistant Drum Major
+<lb/>Jack Nyquist, Band President
+<lb/>Roger Schindler, President Gamma Lambda
+<lb/>Gretchen Blum, Lady Sponsor
+<lb/>Lynn Roberts, Librarian
+</p>
+
+<pb facs="570903-00019"/>
+
+
+<p>HALFTIME ROUTINE</p>
+<p>ATTENTION AT SIDELINE</p>
+<list>
+<item>I Present 2-3-4; Inst. up 2-3-4; Play ON THE SQUARE 1st and 2nd strains (No repeat)</item>
+<item>II TRIO ON THE SQUARE for circles
+<lb/>Present 2-3-4 at end of TRIO</item>
+<item>III Drums for 8 measures. At end of drums Band does KICK (except 1-2-10-11 who kneel) 2-3-4</item>
+<item>IV Inst. up 2-3-4 + announcement GRANDIOSO INTRO. TO TRIO.
+<lb/>Present 2-3-4; -1-2-10-11 up 2-3-4.</item>
+<item>V To the roar on drums 24 measures. After drums leg KICK 2-3-4 for everyone.
+<lb/>Inst. up 2-3-4 + announcement</item>
+<item>VI MISTER TOUCHDOWN U.S.A.
+<lb/>NO PAUSE</item>
+<item>VII TRIO THUNDER AND BLAZES into Steerhead 32 measures
+<lb/>After halt - present 2-3-4; Face (East) 2-3-4 Kneel 2-3-4. Inst. up 2-3-4
+<lb/>WAIT for downbeat from Lentz here. THIS IS THE FIRST TIME THERE WILL BE A PAUSE.</item>
+<item>VIII EYES OF TEXAS
+<lb/>After Eyes of Texas - present 2-3-4 <del rend="strikethrough">and wait. On next command from Lentz up 2-3-4.</del> Face 2-3-4. Inst. up 2-3-4 and into Texas</item>
+<item>IX Trio THUNDER AND BLAZES 30 measure to form Texas
+<lb/>In Texas - Present 2-3-4; Kneel 2-3-4; <del rend="strikethrough">Present</del> 2-3-4 * announcement
+<lb/>PLAY YELLOW ROSE.
+<lb/>Starts with Drums.
+<lb/>After Yellow Rose - Present 2-3-4 + announcement. Up 2-3-4; Face 2-3-4; Inst. up 2-3-4</item>
+<item>X Trio MOVE ON THUNDER AND BLAZES INTO N U
+<lb/>When in place - Present 2-3-4 (Hold horns with left hands)
+<lb/>Face (North) 2-3-4
+<lb/>RAISE hates with right hands up in 4 counts slowly, down in 4 counts;
+<lb/>slowly watch Terry. (Basses stand still)</item>
+<item>XI On Command from Terry
+<lb/>Inst. up 2-3-4; MOVE N U 10 yds. north on NO PLACE
+<lb/>ALL FLANK LEFT FOOT OVER RIGHT FOOT AND OFF!!!!!!! !
+</item>
+</list>
+
+<pb facs="570903-00020"/>
+
+<p>TEXAS-NEBR. 1959
+<lb/>9x11 10 men in 5-7
+<lb/>3&amp;9 - 30 to 25 4 between
+<lb/>Bass 3 between
+<lb/>1&amp;11 - 15 to 20 4 between
+<lb/>Cornet and Drum 4 between
+<lb/>Others 5 between
+</p>
+
+<p>I On The Square 1st 2nd strain No repeat Hashes and midfield
+<lb/>BAND FORMS ON THE SIDELINE ACCORDING TO CHART I
+<lb/>1-2-5-6-7-10-11 on sideline 3-4-8-9 form 2 steps behind sideline.
+<lb/>1-2-10-11 step off on 4th meas. of ONTHE SQUARE
+<lb/>3-4-8-9 step off on 13th meas. (step up on sideline when others clear)
+<lb/>5-6-7 step off on 17th meas. (you will arrive on hash 1 meas. to soon, mark time)
+</p>
+
+<p>
+II TRIO On The Square
+<lb/>1-2-11-10 between 25-30 mark time in place
+<lb/>8-9-3-4 between 35-30 mark time in place
+<lb/>5-7 from 45-41 mark time in place
+<lb/>Others execute complete circle in 32 counts - 8 meas. for each 90˚
+<lb/>pivot man (Big Dots) make 4 pivots (12,3,4) for each 90˚.
+<lb/>Drum rank as unit pivot on Bass Drum; Counterclockwise.
+</p>
+
+<p>
+III 8 measures Drum Cadence
+<lb/>Go west 12 steps-
+<lb/>3-4-8-9- enlarge step to and on West Hash
+<lb/><del rend="strikethrough">Half 2 Present 2-3-4</del> Right leg kick (1rt., 2 across front, 3 rt, 4 in place.)
+<lb/>1-2-10-11 Kneel 2-3-4
+</p>
+
+<p>
+IV Play GRANDIOSO Introduction to Trio
+<lb/>Present <del rend="strikethrough">Carry</del> 2-3-4
+<lb/>1-2-10-11 up 2-3-4
+<lb/><del rend="strikethrough">Present 2-3-4</del>
+</p>
+
+<p>
+V To rear - forward to East 24 steps
+<lb/>3-4-8-9 on East Hash
+<lb/>1-2-10-11 Midfield
+<lb/><del rend="strikethrough">Carry 2-3-4</del>
+<lb/>Rt. leg kick 1 right, 2 across body, 3 Back to right, 4 in place.
+<lb/>Present 2-3-4
+</p>
+
+<p>
+VI Play MR. TOUCHDOWN U.S.A. from 4 before A to C (Use 2nd ending only before C)
+</p>
+
+<p>
+VII TRIO THUNDER AND BLAZES
+<lb/>HORNS STILL UP
+<lb/>To rear and move int Steerhead
+<lb/>Present <del rend="strikethrough">Carry</del> 2-3-4 Face. 2 3 4 Stands
+<lb/>Kneel 2-3-4
+<lb/>5-7 go to West hash
+<lb/>8-3 move to 46 to let 5-7 clear, Then west and into place when 5-7 have cleared
+<lb/>9-3 mark time 12 counts A9, J3 lead
+<lb/>1-2-10-11 go to hash then into place
+<lb/>TRIO OF THUNDER AND BLAZES Start 17 meas-repeat last 8 meas.
+</p>
+
+<pb facs="570903-00021"/>
+
+<p>
+VIII Present 2-3-4 or Lentz downbeat
+<lb/>Play EYES OF TEXAS (Girls rotate eyes)
+<lb/>Present <del rend="strikethrough">Carry</del> 2-3-4
+<lb/>Up 2-3-4
+<lb/>Present 2-3-4
+</p>
+
+<p>
+IX 24 meas. THUNDER AND BLAZES to form
+<lb/>Form TEXAS facing West stands
+<lb/><del rend="strikethrough">Carry</del> Present 2-3-4
+<lb/>Kneel 2-3-4
+<lb/><del rend="strikethrough">Sing</del> Play inst meas 2 3 4 Chorus YELLOW ROSE OF TEXAS Up Present 2-3-4
+<lb/>11 follow hash North to position of T. 15-25 (Then flank East)
+<lb/>10 J H G F follow 11 AB - to 20 then into place
+<lb/>J9 leads 9's to 40 - then east 5 steps East of hash - Column into place
+<lb/>8 J leads H G F - others flank North into place
+<lb/>6 follow B D as wedge into palce
+<lb/>3 A leads to South 25 Column into place
+<lb/>1 C thru J form on hash 15-21 flank East into place A go to 15
+<lb/>2 A leads into place
+<lb/>E 5 leads 5 trumpets to 40 into place
+<lb/>A 10 leads B C D E so on hash to 40 column into place
+</p>
+
+<p>
+X 24 meas MOVE TEXAS SOUTH 5 YDS. INTACT 9 meas.
+<lb/>1 and 3 go into N, Chart V go up 15yd. line 24 steps flank
+<lb/>2- Pivot on J - 24 steps from diagonal then North into place
+<lb/>4 mark time 8 counts then Company fromt into place
+<lb/>5 E D C B to rear 8 counts flank East into place
+<lb/>10 A B C D 10 mark time 8 counts West into place
+<lb/>7 Basses forward 16 counts flank into place
+<lb/>6 forward stop on 40, F G J infilter, flank on 17 count
+<lb/>9 forward to 40 flank East into place
+<lb/>A7 - E7 forward to South 45 flank Est across field
+<lb/>8 forward to North 45 East into place
+<lb/>F10 J10 A11 B11 stop on North 45 flank into place
+<lb/>C11 forward to 45 flank into place
+</p>
+
+<p>
+XI <del rend="strikethrough">Half 2-3-4</del> Present 2-3-4
+<lb/>Face 2-3-4
+<lb/><del rend="strikethrough">Carry 2-3-4</del> Tip hat 4 count up 4 count down
+<lb/>up 2 3 4 Forward on NO PLACE to 10 yds.
+<lb/>FLANK EAST OFF FIELD
+</p>
+
+<pb facs="570903-00022"/>
+<pb facs="570903-00023"/>
+
+</div1>
+
+</body>
+</text>
+</TEI>
