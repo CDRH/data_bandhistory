@@ -51,21 +51,4 @@
     </xsl:choose>
   </xsl:template>
 
-  <!-- overriding in order to add "documents" to path -->
-  <xsl:template name="url_builder">
-    <xsl:param name="figure_id_local"/>
-    <xsl:param name="image_size_local"/>
-    <xsl:param name="iiif_path_local"/>
-    <xsl:value-of select="$media_base"/>
-    <xsl:text>/iiif/2/</xsl:text>
-    <xsl:value-of select="$iiif_path_local"/>
-    <xsl:text>%2Fdocuments%2F</xsl:text>
-    <xsl:value-of select="$figure_id_local"/>
-    <xsl:text>.jpg/full/!</xsl:text>
-    <xsl:value-of select="$image_size_local"/>
-    <xsl:text>,</xsl:text>
-    <xsl:value-of select="$image_size_local"/>
-    <xsl:text>/0/default.jpg</xsl:text>
-  </xsl:template>
-
 </xsl:stylesheet>
