@@ -26,7 +26,7 @@ class CsvToEsFilm < CsvToEs
   end
 
   def image_id
-    "website%2F#{row["ID"]}.jpg"
+    "footage%2F#{row["ID"]}.jpg"
   end
 
   def keywords
