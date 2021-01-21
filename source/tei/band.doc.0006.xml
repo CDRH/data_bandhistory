@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0006">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Press and Radio Release, Pittsburg - Nebraska 1954</title>
+<title type="sub"></title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Name, Transcriber" xml:id="aa">Transcriber Name</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0006</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title type="m">Press and Radio Release, Pittsburg - Nebraska 1954</title>
+<date when="1954-11-13">November 13, 1954</date>
+<author></author>
+<note type="project"></note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
+<collection>RG 130815 Cornhusker Marching Band</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Drill &amp; Programs</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="band.per.0011">Lentz, Donald A.</term>
+<term xml:id="band.per.0012">Snider, Jack</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords">
+<term>Homecoming</term>
+<term>Drill</term>
+<term>Halftime</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="document">
+<pb facs="570903-00025"/>
+<p>
+<hi rend="underline">PRESS AND RADIO RELEASE</hi>
+<lb/>University of Nebraska Band
+<lb/>Pittsburg - Nebraska
+<lb/>November 13, 1954
+</p>
+
+<p>HOMECOMING</p>
+
+<p>A New Queen Reigns For A Year</p>
+
+<table rows="13" cols="4">
+<row role="label">
+<cell role="data">MONTH</cell>
+<cell role="data">DESIGN</cell>
+<cell role="data">MUSIC</cell>
+<cell role="data">CARD SECTION</cell>
+</row>
+<row role="data">
+<cell role="data">Jan. New Year Bells</cell>
+<cell role="data">[drawing of bell]</cell>
+<cell role="data"><del rend="strikethrough">Auld Lang Syne</del>
+<lb/>Play Queen on <unclear/> March Cornhusker Jingle Bells</cell>
+<cell role="data"></cell>
+</row>
+<row role="data">
+<cell role="data">Febr. Valentine</cell>
+<cell role="data">[drawing of heart]</cell>
+<cell role="data">Deep in My Heart
+  <lb/>Sweet dream</cell>
+<cell role="data">Queens Name</cell>
+</row>
+<row role="data">
+<cell role="data">March Shamrock</cell>
+<cell role="data">[drawing of shamrock]</cell>
+<cell role="data">Irish Washerwoman</cell>
+<cell role="data"></cell>
+</row>
+<row role="data">
+<cell role="data">April Showers</cell>
+<cell role="data">[drawing of umbrella]</cell>
+<cell role="data">last 16 measures
+<lb/>April Showers</cell>
+<cell role="data">Welcome Grads</cell>
+</row>
+<row role="data">
+<cell role="data">May Flowers</cell>
+<cell role="data">[drawing of tulip]</cell>
+<cell role="data">16 ms
+<lb/>Tulip Time</cell>
+<cell role="data">Pitt</cell>
+</row>
+<row role="data">
+<cell role="data">June Bridal Cake</cell>
+<cell role="data">[drawing of tiered cake]</cell>
+<cell role="data">Bridal March</cell>
+<cell role="data"></cell>
+</row>
+<row role="data">
+<cell role="data">July 4th</cell>
+<cell role="data">[picture of explosive]</cell>
+<cell role="data">Yankee Doodle 3 times</cell>
+<cell role="data"></cell>
+</row>
+<row role="data">
+<cell role="data">Aug. Vacation</cell>
+<cell role="data">[drawing of fish]</cell>
+<cell role="data">3 Little Fishes and repeat 4</cell>
+<cell role="data"></cell>
+</row>
+<row role="data">
+<cell role="data">Sept. School Again</cell>
+<cell role="data">R R R</cell>
+<cell role="data">last 16 meas.
+<lb/>School Days
+<lb/><unclear/>&amp; repeat 4</cell>
+<cell role="data">Good luck [shamrock behind]</cell>
+</row>
+<row role="data">
+<cell role="data">Oct. Halloween</cell>
+<cell role="data">[drawing of jack-o-lantern]</cell>
+<cell role="data">Peter, Pumpkin Eater
+<lb/><unclear/></cell>
+<cell role="data"></cell>
+</row>
+<row role="data">
+<cell role="data">Nov. Turkey</cell>
+<cell role="data">[drawing of roasted turkey]</cell>
+<cell role="data">Dry Bones</cell>
+<cell role="data"></cell>
+</row>
+<row role="data">
+<cell role="data">Dec. Xmas Tree</cell>
+<cell role="data">[drawing of pine tree]</cell>
+<cell role="data">Mov in 3 measu.
+<lb/>Tennebaum</cell>
+<cell role="data">Go Big Red</cell>
+</row>
+</table>
+
+<p>Presentation of the Homecoming Queen by the Innocents, Mortar Board, Cobs, and Tassels will take place in the first design.</p>
+
+<p><unclear/> mouthpiece &amp; 2 <unclear/> mouthpiece</p>
+
+<p>Donald A. Lentz, Director
+<lb/>Jack Snider, Ass't Conductor
+<lb/>Card Section arrnaged by Gamma Lambda - Len Barker, Coordinator.</p>
+
+<pb facs="570903-00026"/>
+
+<p>For the <hi rend="underline">Homecoming Queen</hi>, the University of Nebraska Band wishes to forecast her <hi rend="underline">Calendar</hi> of events during her year of reign.</p>
+
+<p>January is ushered in by the Bells of the New Year.</p>
+<p>In February our Queen will receive a Valentine.</p>
+<p>In March there will be the wearing of the green of the Shamrock.</p>
+<p>The Queen will need an Umbrella for the April Showers.</p>
+<p>In May she will delight in the Spring Flowers.</p>
+<p>With June comes romance highlighted by a Wedding Cake.</p>
+<p>July will be banging with Firecrackers.</p>
+<p>With August there will be vacation and the big fish that got away.</p>
+<p>September brings the reality of the three R's --- readin', writin', and 'rithmatic.</p>
+<p>A smiling Jack-o-Lantern appears at the Queen's window in October.</p>
+<p>In November, this Turkey will be served her.</p>
+<p>Under the Christmas Tree in December, may all good wishes and gifts of happiness be enjoyed by our Homecoming Queen.</p>
+
+<figure/>
+
+</div1>
+
+</body>
+</text>
+</TEI>
