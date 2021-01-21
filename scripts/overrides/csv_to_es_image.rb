@@ -26,7 +26,7 @@ class CsvToEsImage < CsvToEs
   end
 
   def image_id
-    "photographs%2F#{@id}.jpg"
+    "#{@id}.jpg"
   end
 
   def publisher
