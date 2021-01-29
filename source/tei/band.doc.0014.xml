@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0014">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from Kimball to Chancellor Andrews, November 20, 1901</title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0014</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title>Letter from Kimball to Chancellor Andrews, November 20, 1901</title>
+<date when="1901-11-20">November 20, 1901</date>
+<note type="project">This image is a scan of a photocopy made from another unspecified collection. The letter should be located and rescanned when possible.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
+<collection>RG 570904 Donald A. Lentz and Gary R. Steffens, Marching Band Records</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Correspondence &amp; Papers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Kimball, Willard</term>
+<term>Andrews, Elisha Benjamin</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords"> 
+<term>Fundraising &amp; Finance</term>
+<term>Uniform &amp; Equipment</term>
+</keywords>
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Kimball, Willard</persName>
+<placeName>Lincoln, Nebraska</placeName>
+<date when="1901-11-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Andrews, Elisha Benjamin</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+
+<revisionDesc>         
+<change when="2021" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>  
+
+<div1 type="letter">
+<pb facs="band.doc.0014"/>
+
+<opener>
+<salute>
+Chancellor Andrews
+<lb/>Dear Sir
+</salute>
+</opener>
+
+<p>May I ask you to consider the great need of the Cadet Band for instruments.</p>
+<p>None have been purchased for their use for many years, save two which I secured two years ago from receipts for services rendered by the Band during a political campaign.</p>
+<p>The price of horns most needed and absolutely necessary for effective playing will cost $220.00.</p>
+<p>There are six or seven old instruments entirely useless which may be exchanged for part payment of new ones, and they might possibly bring one half of the cost of new ones. I would, therefore, ask for authority to make such exchange and earnestly request that the band allow the difference in cash.</p>
+<p>I wish to add that the organization has never before contained so much talent nor has it ever had so efficient and pain-staking a leader.
+</p>
+
+<closer>
+<salute>Respectfully</salute>
+<signed>Willard Kimball</signed>
+<seg>Director of Music</seg>
+<dateline>Lincoln, Nov. 20th, 1901</dateline>
+</closer>
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>

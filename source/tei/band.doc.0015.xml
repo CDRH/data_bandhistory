@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0015">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from Cp. Chase to Board of Regents, February 10, 1903</title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0015</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title>Letter from Cp. Chase to Board of Regents, February 10, 1903</title>
+<date when="1903-02-10">February 10, 1903</date>
+<date when="1886-03-22">March 22, 1886</date>
+<note type="project">This image is a scan of a photocopy made from another unspecified collection. The letter should be located and rescanned when possible.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
+<collection>RG 570904 Donald A. Lentz and Gary R. Steffens, Marching Band Records</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Correspondence &amp; Papers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Chase, Wilson</term>
+<term>Board of Regents</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords"> 
+<term>Drill</term>
+<term>Military</term>
+<term>Rehearsal</term>
+</keywords>
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Chase, Wilson</persName>
+<placeName>Lincoln, Nebraska</placeName>
+<date when="1903-02-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Andrews, Elisha Benjamin</persName>
+<placeName>Nebraska University</placeName>
+</correspAction>
+<correspContext>
+<ref next="band.doc.0015"></ref>
+</correspContext>
+</correspDesc>
+</profileDesc>
+
+<revisionDesc>         
+<change when="2021" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>  
+
+<div1 type="letter">
+<pb facs="band.doc.0015.001"/>
+
+<opener>
+<seg>UNIVERSITY OF NEBRASKA</seg>
+<dateline>Lincoln, Nebr., Feby. 10, 1903.</dateline>
+<salute>To the
+<lb/>Chancellor and Board of Regents,
+<lb/>The University,
+<lb/>Gentlemen,</salute>
+</opener>
+
+<p>In reference to the regulations adopted by you at the December meeting, 1902, relative to the Military Department, I have the honor to state that the time of cadet service as specified therein is hardly sufficient to allow of proficiency being attained within the limits directed. This arises from the fact that the new War Department order requires two courses to be taught: a practical and a theoretical course. Attention is invited to these regulations, in which one course only was considered.</p>
+
+<p>If drill alone were considered, a three semester basis would be sufficient, but it is inadequate considering the War Department course in its entirety. The basis of the War Department course is five hours per week of Military work. I have prepared, and submit herewith, some regulations, which is adopted would place my department in accord with my orders from Washington, and I beg of their consideration.</p>
+<p>I also wish to call attention to the cadet band, and to ask that the same be placed under the control of the Military Department, where it properly belongs. The dual authority under which it has been placed has not resulted in a betterment of its condition, but has operated rather to the contrary. A military band is of great aid to the Battalion, and in fact it is almost indispensable; and it is of value to the University.</p>
+
+<closer>
+<salute>Very respectfully,</salute>
+<signed>Wilson Chase
+<lb/>Capt. 21st Inf</signed>
+</closer>
+</div1>
+
+</body>
+
+</text>
+</TEI>

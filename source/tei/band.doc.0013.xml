@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0013">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from Easterday to Lt. Dudley, March 22, 1886</title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0013</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title>Letter from Easterday to Lt. Dudley, March 22, 1886</title>
+<date when="1886-03-22">March 22, 1886</date>
+<note type="project">This image is a scan of a photocopy made from another unspecified collection. The letter should be located and rescanned when possible.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
+<collection>RG 570904 Donald A. Lentz and Gary R. Steffens, Marching Band Records</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Correspondence &amp; Papers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords"> 
+<term>Fundraising &amp; Finance</term>
+</keywords>
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Easterday, David F.</persName>
+<placeName></placeName>
+<date when="1886-03-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Dudley, Edgar S.</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+
+<revisionDesc>         
+<change when="2021" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>  
+
+<div1 type="letter">
+<pb facs="band.doc.0013.001"/>
+
+<opener>
+<seg>Terms: Piano or Organ
+<lb/>20 HOUR LESSONS, $15.00
+<lb/>20 1-2 " " 10.00
+<lb/>BAND. " ......
+<lb/>ORCHESTRA. " ......
+<lb/>VARIOUS BAND INSTRUMENTS PER LESSON, 50c
+<lb/>
+</seg>
+
+<seg>D. F. EASTERDAY
+<lb/>INSTRUCTOR IN MUSIC.
+<lb/>TELEPHONE, 46.
+<lb/>Lincoln, NE
+</seg>
+<dateline>March 22, 1886</dateline>
+<salute>
+<lb/>Lieut Dudley,
+<lb/>Dear Sir;</salute>
+</opener>
+
+<p>I feel that my salary for teaching the Cadet Band is decidedly too little and should be raised for the coming year if my services are desired. It is now $50.00 per term, making it $150.00 per year. I have taught many bands , and I have never taught any band aside from the University leader Band for less than $2.50 per lesson, and from that to $4.50 per lesson I have given the band from about 24 to 45 lessons per term. 24 for the winter term and about 45 for each of both the fall and spring terms. At the lower figure, $2.50 per lesson would amount to about $286.00. At the very least I think it should be raised to $250.00.</p>
+
+<closer>
+<salute>Yours Respectfully,</salute>
+<signed>D. F. Easterday</signed>
+</closer>
+</div1>
+
+</body>
+
+</text>
+</TEI>
