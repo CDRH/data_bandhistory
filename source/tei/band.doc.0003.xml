@@ -86,6 +86,21 @@
 <term>Other Band</term>
 </keywords>
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Americus Mitchell</persName>
+<placeName></placeName>
+<date when="1922-01-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>The Executive Dean</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref prev="band.doc.0001"></ref>
+</correspContext>
+</correspDesc>
 </profileDesc>
 
 <revisionDesc>

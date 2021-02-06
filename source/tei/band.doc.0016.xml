@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0016">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from Quick to Chancellor Hastings, August 12, 1918</title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0016</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title>Letter from Quick to Chancellor Hastings, August 12, 1918</title>
+<date when="1918-08-12">Aug. 12, '18</date>
+<note type="project">This image is a scan of a photocopy made from another unspecified collection. The letter should be located and rescanned when possible.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
+<collection>RG 570904 Donald A. Lentz and Gary R. Steffens, Marching Band Records</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Correspondence &amp; Papers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Quick, W. T.</term>
+<term>Hastings, W. G. (William Granger)</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords"> 
+<term>Meetings &amp; Membership</term>
+<term>Military</term>
+</keywords>
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>W. T. Quick</persName>
+<placeName>21 North Nevada Ave., Colorado Springs. Colo</placeName>
+<date when="1918-08-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Chancellor W. G. Hastings</persName>
+<placeName>University of Nebraska Lincoln</placeName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+
+<revisionDesc>         
+<change when="2021" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>  
+<div1 type="envelope"></div1>
+
+<div1 type="letter">
+<pb facs="band.doc.0016.001"/>
+
+<opener>
+<seg>Colo. Springs Colo.<lb/></seg>
+<dateline>Aug. 12 ='18</dateline>
+<salute>Chancellor N. Y. Hastings
+<lb/>University of Nebraska
+<lb/>Lincoln
+<lb/>Dear Sir. -
+</salute>
+</opener>
+
+<p>Your’s of Aug., 9 recieved [received] and in reply will say I would be very glad to take up the work with the University band. My engagement here ends Sept., 7. so will be in Lincoln in time for the opening of college year. Please except [accept] my thanks for remembering me, and if I recieve [receive] appointment, will do my best to give the University a fine Military band.</p>
+
+<closer>
+<salute>
+Yours Very Truly
+</salute>
+<signed>
+<lb/>W. T. Quick
+</signed>
+<seg>
+<lb/>21 – North Nevada Ave.
+<lb/>Colorado Springs. Colo.
+</seg>
+</closer>
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>
