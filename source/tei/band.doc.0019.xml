@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0019">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from Lieut. Col. Jewett to Chancellor Burnett, December 27, 1925</title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0019</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title>Letter from Lieut. Col. Jewett to Chancellor Burnett, December 27, 1925</title>
+<date when="1928-12-27">December 27, 1928</date>
+<note type="project">This image is a scan of a photocopy made from another unspecified collection. The letter should be located and rescanned when possible.</note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
+<collection>RG 570904 Donald A. Lentz and Gary R. Steffens, Marching Band Records</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Correspondence &amp; Papers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Jewett, F. F.</term>
+<term>Burnett, E. A. (Edgar Albert)</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords"> 
+<term>Fundraising &amp; Finance</term>
+<term>Uniform &amp; Equipment</term>
+<term>Military</term>
+<term>Travel</term>
+<term>Sports</term>
+<term>Concert</term>
+<term>Events &amp; Dances</term>
+</keywords>
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>F. F. Jewett</persName>
+<placeName>The University of Nebraska Lincoln</placeName>
+<date when="1928-12-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Chancellor Burnett</persName>
+<placeName>University of Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref next="band.doc.0021"></ref>
+</correspContext>
+</correspDesc>
+</profileDesc>
+
+<revisionDesc>         
+<change when="2021" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>  
+
+<div1 type="letter">
+<pb facs="band.doc.0019.001"/>
+
+<opener>
+<dateline>December 27, 1928</dateline>
+<salute>
+<lb/>The Chancellor
+<lb/>University of Nebraska.
+<lb/>My dear Chancellor Burnett:
+</salute>
+</opener>
+
+<p>I desire to call to your attention the position the R.O.T.C. Band now occupies.</p>
+
+<p>About eight years ago the band was equipped with sixty-five uniforms purchased by University funds. Since then these uniforms have been kept up and replacements made from the maintenance funds of the Military Department. Last year it was desired to increase the number in the band and this was done by asking those men who had taken the advanced course in military science to donate their cadet gray uniforms. By this means we were able to obtain sufficient blouses for a hundred men but had to provide additional trousers which was done from our maintenance funds. The uniforms are now becoming so worn that it will, very likely, be impossible to keep the number up to the present strength due to lack of funds.</p>
+
+<p>The R.O.T.C. band is used for various functions outside of the military department. It is called on to play for all student rallies, for athletic games, special Sunday concerts, and on various special occasions. It has in large measure lost its identity as only belonging to the Military Department and has become a University organization. For its playing during football games the members of the band are admitted free to the games and are taken on one trip each year to one of the conference games played away from Lincoln.</p>
+
+<p>This Fall there seemed to be a demand for the band to make the trip east to West Point with the football team. The raising of the entire fund for such a trip fell to the responsibility of the Military Department, though the benefits derived, outside of those to the individual members of the band, were entirely for the University as a whole and</p>
+
+<pb facs="band.doc.0019.002"/>
+
+<p>not departmental.</p>
+
+<p>As the band has become a University organization it is believed that the entire support of it should not fall to one department. Especially is this true of the Military Department as the members of its staff are so transient that they are not in a position to determine the best methods for raising funds.</p>
+
+<p>It is believed that there should be some permanent committee, representing the various interest that use the band, to assume the responsibilities for raising money for the upkeep of the band uniforms and for funds for defraying its expense when making trips with the football team.</p>
+
+<closer>
+<salute>Very sincerely yours,</salute>
+<signed>
+F. F. Jewett
+<lb/>Lieut. Col., Inf., (DOL)
+<lb/>P.M.S.&amp;T.
+</signed>
+</closer>
+</div1>
+
+</body>
+
+<back></back>
+</text>
+</TEI>
