@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0021">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0022">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Chancellor Burnett to Lt. Col. Jewett, January 3, 1929</title>
+<title>Chancellor Burnett to Selleck, Holtz, and P.M.S.&amp;T., January 9, 1929</title>
 <principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
 <principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -30,7 +30,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">band.doc.0021</idno>
+<idno type="project">band.doc.0022</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -41,9 +41,9 @@
 
 <sourceDesc>
 <bibl>
-<title>Letter from Chancellor Burnett to Lt. Col. Jewett, January 3, 1929</title>
-<date when="1929-01-03">January Third 1929</date>
-<note type="project">This image is a scan of a photocopy made from another unspecified collection. The letter should be located and rescanned when possible.</note> 
+<title>Chancellor Burnett to Selleck, Holtz, and P.M.S.&amp;T., January 9, 1929</title>
+<date when="1929-01-09">January Ninth 1929</date>
+<note type="project">This image is a scan of a photocopy made from another unspecified collection. The letter should be located and rescanned when possible.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -65,8 +65,10 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Jewett, F. F.</term>
+<term>Selleck, John K.</term>
 <term>Burnett, E. A. (Edgar Albert)</term>
+<term>Holtz, Harold F.</term>
+<term>Jewett, F. F.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -75,9 +77,9 @@
 
 <keywords scheme="lcsh" n="keywords"> 
 <term>Fundraising &amp; Finance</term>
-<term>Uniform &amp; Equipment</term>
 <term>Travel</term>
 <term>Sports</term>
+<term>Events &amp; Dances</term>
 </keywords>
 </textClass>
 
@@ -85,15 +87,16 @@
 <correspAction type="sentBy">
 <persName>E. A. Burnett</persName>
 <placeName></placeName>
-<date when="1929-01-03"/>
+<date when="1929-01-09">January Ninth 1929</date>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Colonel F. F. Jewett</persName>
+<persName>Mr. John K. Selleck</persName>
+<persName>Mr. Harold Holtz</persName>
+<persName>The P.M.S.&amp;T.</persName>
 <placeName>The University</placeName>
 </correspAction>
 <correspContext>
-<ref prev="band.doc.0019"></ref>
-<ref next="band.doc.0020"></ref>
+<ref prev="band.doc.0020"></ref>
 </correspContext>
 </correspDesc>
 </profileDesc>
@@ -108,23 +111,30 @@
 <body>  
 
 <div1 type="letter">
-<pb facs="band.doc.0021.001"/>
+<pb facs="band.doc.0022.001"/>
 
 <opener>
-<dateline>January Third 1929</dateline>
-<salute>Colonel F. F. Jewett
+<dateline>
+January
+<lb/>Ninth
+<lb/>1929
+</dateline>
+<salute>
+<lb/>Mr. John K. Selleck,
+<lb/>Mr. Harold Holtz,
+<lb/>The F. M. S. &amp; T.,
 <lb/>The University.
-<lb/>My dear Colonel Jewett:</salute>
+<lb/>Gentlemen:
+</salute>
 </opener>
 
-<p>Replying to your favor of the 27th ult., in line with our conversation, I think the uniforms for the band should be maintained in good condition so that they make a good appearance. If it has been customary for the University to furnish such uniforms, I should say that this would be a legitimate item in your budget when making out the request for next year.</p>
-<p>I think everyone recognizes that the band is a University institution and that the numbers need to present a good appearance. We cannot, of course, charge this up against them personally.</p>
-<p>In the matter of a committee to raise funds by which the band may make trips with the football team or to represent the University, if upon consideration you think it advisable to appoint such a committee I should be glad to have you make recommendations as to the personnel of the committee.</p>
-<p>I am</p>
+<p>Compliant with the suggestion of Colonel Jewett, I wish to ask you to act as a standing committee to determine in which public activities the band should participate and the method of raising funds when such may be necessary to send the band away from Lincoln to the interests of the University, notably to attend football games or to represent the University in any public way.</p>
 
+<p>I am</p>
 <closer>
 <salute>Very sincerely yours,</salute>
-<signed>E. A. Burnett
+<signed>
+E. A. Burnett
 <lb/>Chancellor
 </signed>
 </closer>
