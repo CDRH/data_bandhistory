@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0024">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Memo from Col. Oury to Chancellor Burnett, September 10, 1937</title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0024</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title>Memo from Col. Oury to Chancellor Burnett, September 10, 1937</title>
+<date when="1937-09-10">September 10, 1937</date>
+<note type="project">This image is a scan of a photocopy made from another unspecified collection. The letter should be located and rescanned when possible.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>University of Nebraska-Lincoln Archives and Special Collections</repository>
+<collection>RG 570904 Donald A. Lentz and Gary R. Steffens, Marching Band Records</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Correspondence &amp; Papers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Burnett, E. A. (Edgar Albert)</term>
+<term>Oury, W. H.</term>
+<term>Ledwith, Charles</term>
+<term>Quick, W. T.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords"> 
+<term>Uniform &amp; Equipment</term>
+<term>Military</term>
+<term>Fundraising &amp; Finance</term>
+<term>Membership &amp; Meetings</term>
+</keywords>
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>W. H. Oury</persName>
+<placeName>The University of Nebraska</placeName>
+<date when="1937-09-10">September 10, 1937</date>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Chancellor Burnett</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+
+<revisionDesc>         
+<change when="2021" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>  
+
+<div1 type="letter">
+<pb facs="band.doc.0024.001"/>
+
+<opener>
+<dateline>September 10, 1937</dateline>
+<salute>Memorandum to the Chancellor:</salute>
+</opener>
+
+<p>Reference to the claim of Mr. Ledwith for work done as Assistant in the Band, the following is submitted.</p>
+
+<p>No claim for any specified amount of money has been submitted by Mr. Ledwith to this office for his work with the Band; nor has he submitted a statement of the number of hours he claims to have devoted to such instruction. It is understood however, that the Finance Secretary has received a claim for 800 hours of work devoted to instruction of the Band by Mr. Ledwith. No doubt he has given that much time or more to the work during the last year and a half; and his work has been extremely valuable as indicated by the stretched memorandum.</p>
+
+<p>Mr. Ledwith however, was an Advanced Course student of the Military Department and has received his commission as Second Lieutenant, Reserve Corps, Infantry. He was assigned by the Commandant to duty with the Band and received during the three semesters that he took the work (authority was received to curtail his advanced course to three semesters), $111.75 by the Federal Government. Allowing him 25¢ per hour for the 800 hours he claims, would come to $200.00. Of the $111.75 received from the Federal Government, it is a fair estimate to state that at least one-third of that time was devoted to the Band which would amount to $37.25, leaving him a claim of $162.75. The remainder of his time in the Advanced Course was devoted to theoretical subjects prescribed by the course. This is seems to me, is sufficient to cover the work done by Mr. Ledwith. Otherwise, he would be receiving double pay for the time he instructed the band as an Advanced Student. Of course, this deduction would include the time that Mr. Ledwith acted as Drum Major because during that time he was instructing the band in marching and had charge of the Freshman Band.</p>
+
+<p>Neither Mr. Ledwith nor Mr. Quick are available at the present time for an interview on this matter, but I am convinced in my own mind that the $162.75 would be a fair settlement both for the young man and for the University.</p>
+
+<closer>
+<signed>
+W. H. Oury
+<lb/>Colonel, Infantry
+<lb/>P.M.S.&amp;T.
+</signed>
+</closer>
+</div1>
+
+</body>
+
+</text>
+</TEI>
