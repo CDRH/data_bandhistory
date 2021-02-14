@@ -51,4 +51,65 @@
     </xsl:choose>
   </xsl:template>
 
+  <!-- adding a "gallery" class to anchor tags -->
+
+  <xsl:template match="pb">
+      <!-- grab the figure id from @facs, and if there is a .jpg, chop it off
+            note: I previously also looked at xml:id for figure ID, but that's
+            incorrect -->
+      <xsl:variable name="figure_id">
+        <xsl:variable name="figure_id_full">
+          <xsl:value-of select="normalize-space(@facs)"/>
+        </xsl:variable>
+        <xsl:choose>
+          <xsl:when test="ends-with($figure_id_full, '.jpg') or ends-with($figure_id_full, '.jpeg')">
+            <xsl:value-of select="substring-before($figure_id_full, '.jp')"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="$figure_id_full"/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:variable>
+
+      <span class="hr">&#160;</span>
+      <xsl:if test="$figure_id != ''">
+        <span>
+          <xsl:attribute name="class">
+            <xsl:text>pageimage</xsl:text>
+          </xsl:attribute>
+          <a class="gallery-image">
+            <xsl:attribute name="href">
+              <xsl:call-template name="url_builder">
+                <xsl:with-param name="figure_id_local" select="$figure_id"/>
+                <xsl:with-param name="image_size_local" select="$image_large"/>
+                <xsl:with-param name="iiif_path_local" select="$collection"/>
+              </xsl:call-template>
+            </xsl:attribute>
+            <xsl:attribute name="title">
+              <xsl:text>&lt;a href=&#34;</xsl:text>
+              <xsl:call-template name="url_builder">
+                <xsl:with-param name="figure_id_local" select="$figure_id"/>
+                <xsl:with-param name="image_size_local" select="1000"/>
+                <xsl:with-param name="iiif_path_local" select="$collection"/>
+              </xsl:call-template>
+              <xsl:text>" target="_blank" &gt;view larger image in new window&lt;/a&gt;</xsl:text>
+            </xsl:attribute>
+
+            <img>
+              <xsl:attribute name="src">
+                <xsl:call-template name="url_builder">
+                  <xsl:with-param name="figure_id_local" select="$figure_id"/>
+                  <xsl:with-param name="image_size_local" select="$image_thumb"/>
+                  <xsl:with-param name="iiif_path_local" select="$collection"/>
+                </xsl:call-template>
+              </xsl:attribute>
+              <xsl:attribute name="class">
+                <xsl:text>display&#160;</xsl:text>
+              </xsl:attribute>
+            </img>
+          </a>
+        </span>
+      </xsl:if>
+    </xsl:template>
+
 </xsl:stylesheet>
