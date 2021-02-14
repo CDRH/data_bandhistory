@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0007">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Halloween Halftime Show Drill Chart</title>
+<title type="sub"></title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title type="m">Halloween Halftime Show Drill Chart</title>
+<date when="1954">1954</date>
+<author></author>
+<note type="project"></note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Archives &amp; Special Collections, University of Nebraska-Lincoln Libraries</repository>
+<collection>RG 570903 Jack Snider Band Papers</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Drill &amp; Programs</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Snider, Jack</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords">
+<term>Drill</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2021" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="document">
+<pb facs="570903-00027"/>
+
+<figure>
+<label>Pumpkin</label>
+</figure>
+
+<pb facs="570903-00028"/>
+
+<figure>
+<label>Ghost</label>
+</figure>
+
+<pb facs="570903-00029"/>
+
+<figure>
+<label>Cat</label>
+</figure>
+
+<pb facs="570903-00030"/>
+
+<figure>
+<label>Bat</label>
+</figure>
+
+</div1>
+
+</body>
+</text>
+</TEI>

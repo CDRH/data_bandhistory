@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0010">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">1954 Colorado V Nebraska Description, Press and Radio Release</title>
+<title type="sub"></title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0010</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title type="m">1954 Colorado V Nebraska Description, Press and Radio Release</title>
+<date when="1954">1954</date>
+<author></author>
+<note type="project"></note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Archives &amp; Special Collections, University of Nebraska-Lincoln Libraries</repository>
+<collection>RG 570903 Jack Snider Band Papers</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Drill &amp; Programs</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Snider, Jack</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords">
+<term>Drill</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2021" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="document">
+<pb facs="570903-00033"/>
+
+<p>COLORADO SHOW</p>
+
+<p>Hash to hash on Male Heil D</p>
+
+<p>COLORADO SHOW</p>
+
+<list rend="simple">
+<item>1. Hash to hash on Hail Nebraska</item>
+<item>2. Form BUFFALO on Glory, Glory, Colorado</item>
+<item>3. Play Bb9 chord and two Bunny Hops into diamonds</item>
+<item>4. Around diamond on double eagle
+<lb/>4. Circles on Chief of Staff 16 measures</item>
+<item>5. Into Hexagon on March of Cornhuskers 8 measures without into</item>
+<item>6. Around Hexagon and to the rear on Champions</item>
+<item>7. Form Company Fronts on March of Cornhuskers
+<lb/>play 4 measures 4 dead counts play next 4 measures</item>
+<item>8. Play and Sing Band Song and Hail Varsity</item>
+<item>9. On last half of Heil Varsity return to Hexagon</item>
+<item>10. ON Thunder and Blazes trio Perpendiculars go out 16 counts to the rear and return when back do circles around every 4th man for last half of Trio</item>
+<item>11. Back to Diamonds on March of Cornhusker 8 measures and stop play chord</item>
+<item>12. Into Lyre on Double eagle</item>
+<item>13. Play three Kings</item>
+<item>14. Off on No Place</item>
+</list>
+
+<p>Together turn 1 - 2</p>
+
+<pb facs="570903-00034"/>
+
+<p>PRESS and RADIO RELEASE
+<lb/>University of Nebraska Band
+<lb/>Colorado - Nebraska Game - Oct. 23, 1954</p>
+
+<table rows="6" cols="4">
+<row role="label">
+<cell role="data">EXPLANATION</cell>
+<cell role="data">DESIGN</cell>
+<cell role="data">MUSIC</cell>
+</row>
+<row role="data">
+<cell role="data">We salute the Colorado Buffalo.</cell>
+<cell role="data">[drawing of bison]</cell>
+<cell role="data">Glory Colorado<lb/>Buffalo Gal</cell>
+</row>
+<row role="data">
+<cell role="data">The band presents a drill of
+<lb/>contrasting geometric designs</cell>
+<cell role="data">[drawing of diamonds]</cell>
+<cell role="data">Champions<lb/>Thunder and Blazes</cell>
+</row>
+<row role="data">
+<cell role="data">In three company fronts,
+<lb/>the Band sings.</cell>
+<cell role="data">[drawing of three lines]</cell>
+<cell role="data">Nebraska Band Song</cell>
+</row>
+<row role="data">
+<cell role="data">Expanding and contracting circles</cell>
+<cell role="data">[drawing of octagon with plus symbol]</cell>
+<cell role="data">Double Eagle
+<lb/>March of the Cornhuskers</cell>
+</row>
+<row role="data">
+<cell role="data">Twelve trumpet soloists are now
+<lb/>featured</cell>
+<cell role="data">[drawing of lyre]</cell>
+<cell role="data">Three Kings
+<lb/>Hail Nebraska</cell>
+</row>
+</table>
+<p>Donald A. Lentz
+<lb/>Director of University Bands</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="band.doc.0009">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from [Burns] Thimgan to Snider, March 31, 1922</title>
+<principal n="Dussault, Jessica" xml:id="jvd">Jessica Dussault</principal>
+<principal n="Robison, Traci" xml:id="tr">Traci Robison</principal>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2021</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Cornhusker Marching Band History</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">band.doc.0009</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title>Letter from Thimgan to Snider, March 31, 1922</title>
+<date when="1922-03-31">March 31, 1922</date>
+<note type="project"></note> 
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Archives &amp; Special Collections, University of Nebraska-Lincoln Libraries</repository>
+<collection>RG 570903 Jack Snider Band Papers</collection>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Correspondence &amp; Papers</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term>Burns, Joyce</term>
+<term>Snider, Jack</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term></term>
+</keywords>
+
+<keywords scheme="lcsh" n="keywords"> 
+<term>Pregame &amp; Halftime</term>
+</keywords>
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Joyce D. (Burns) Thimgan</persName>
+<placeName></placeName>
+<date when="1922-03-31">March 31, 1992</date>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Jack Snider</persName>
+<placeName>1601 Brent Blvd. Lincoln, Nebraska 68506</placeName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+
+<revisionDesc>         
+<change when="2021" who="#jvd">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>  
+
+<div1 type="letter">
+<pb facs="570903-00032"/>
+
+<opener>
+<dateline>March 31, 1992</dateline>
+<salute>
+<lb/>Jack Snider
+<lb/>1601 Brent Blvd.
+<lb/>Lincoln, Nebraska 68506
+<lb/>
+<lb/>Dear Jack:
+</salute>
+</opener>
+
+<p>The opportunity you gave me in 1961, as UNL Cornhuskers first solo twirler, has allotted me a lifetime of treasured memories to fill my heart forever.</p>
+
+<p>In one moment, I burst out of Big Bertha's innermost depths, into a world of band sounds and cheering crowds. Because you dared to break tradition, the door was opened for many young ladies to continue their talents in music, flag corp and baton twirling while at UNL. Countless thousands of Nebraskan's have enjoyed the Cornhusker Marching Band and will continue to do for many years to come.</p>
+
+<p>May you know now that I have and will always honor and respect you for the kind and caring gentleman you are.</p>
+
+<closer>
+<salute>Your First "Golden Girl"</salute>
+<signed>
+Joyce D. (Burns) Thimgan
+<lb/>1961-1965
+</signed>
+</closer>
+</div1>
+
+</body>
+
+</text>
+</TEI>
