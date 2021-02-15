@@ -34,7 +34,7 @@ module FileTypeFootage
       reel = @mega_metadata[reel_id]
       video_path = File.join(@options["media_base"], "video", @options["collection"], "footage", "#{row["ID"]}.mp4")
       img_path = File.join(@options["media_base"],
-        "iiif/2", "bandhistory%2Fwebsite%2F#{row["ID"]}.jpg", "full", "!500,500", "0/default.jpg")
+        "iiif/2", "bandhistory%2Ffootage%2F#{row["ID"]}.jpg", "full", "!500,500", "0/default.jpg")
 
       # using XML instead of HTML for simplicity's sake
       builder = Nokogiri::XML::Builder.new do |xml|
