@@ -7,6 +7,7 @@ module CsvToEsArchiveRecord
     dt = rec_date.strip
     formatted = ""
     # YYYY
+
     if dt[/^\d{4}$/]
       formatted = dt
 
@@ -18,7 +19,12 @@ module CsvToEsArchiveRecord
     # (M)M/(D)D/YY  <- always assuming 20th century in this case
     elsif dt[/^\d{1,2}\/\d{1,2}\/\d{2}$/]
       d, m, y = dt.split(/\/-/)
-      formatted = "#{d}/#{m}/19#{y}"
+      formatted = "19#{y}/#{m}/#{d}"
+
+    # YYYY/(M)M/(D)D
+    elsif dt[/^\d{4}\/\d{1,2}\/\d{1,2}$/]
+      y, m, d = dt.split(/\/-/)
+      formatted = "#{y}-#{m}-#{d}"
 
     # YYYY(,) September 8
     # YYYY, Sept.( 8)

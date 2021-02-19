@@ -25,6 +25,10 @@ class CsvToEsImage < CsvToEs
     Datura::Helpers.date_standardize(formatted, before)
   end
 
+  def date_display
+    @row["date"]
+  end
+
   def image_id
     "#{@id}.jpg"
   end
