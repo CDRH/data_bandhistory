@@ -56,8 +56,10 @@ class CsvToEsImage < CsvToEs
       @row["subject/topic"],
       date,
       date_display,
+      @row["isPartOf/Collection"],
       @row["creator/photographer"],
-      @row["contributor/collector"]
+      @row["contributor/collector"],
+      @row["publisher/repository"]
     ]
   end
 
