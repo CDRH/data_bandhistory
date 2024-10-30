@@ -2,7 +2,7 @@ class CsvToEsNewspaper < CsvToEs
 
   def preprocessing
     person_csv = File.join(@options["collection_dir"], "source/authority/personography.csv")
-    @personography = CSV.read(person_csv, {
+    @personography = CSV.read(person_csv, **{
       encoding: "utf-8",
       headers: true,
       skip_blanks: true,
@@ -42,13 +42,13 @@ class CsvToEsNewspaper < CsvToEs
         if !hit
           puts "No personography entry found for #{per}"
           people << {
-            name: per
+            "name" => per
           }
         else
           people << {
-            id: hit["identifier"],
-            name: hit["display name"],
-            role: nil
+            "id" => hit["identifier"],
+            "name" => hit["display name"],
+            "role" => nil
             # technically we have a brief role written in the personography
             # file but it's not ready for game day
           }
@@ -58,21 +58,27 @@ class CsvToEsNewspaper < CsvToEs
     end
   end
 
-  def publisher
-    @row["Collection Title"]
+  def citation
+    {
+      "publisher" => @row["Collection Title"]
+    }
   end
 
   def rights_holder
     publisher
   end
 
-  def source
+  def has_source
     url = @row["Box, Folder, URL"]
     # trim search terms off of url
-    url.split("#words").first if url
+    source = url.split("#words").first if url
+    {
+      "title" => source
+    }
+    
   end
 
-  def subcategory
+  def category2
     "Newspaper"
   end
 

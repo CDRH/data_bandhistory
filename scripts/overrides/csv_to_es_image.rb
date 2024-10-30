@@ -15,7 +15,7 @@ class CsvToEsImage < CsvToEs
     all = @row["creator/photographer"]
     if all
       all.split(";").map do |pers|
-        { name: pers }
+        { "name" => pers }
       end
     end
   end
@@ -33,8 +33,10 @@ class CsvToEsImage < CsvToEs
     "#{@id}.jpg"
   end
 
-  def publisher
-    @row["publisher"] || @row["publisher/repository"]
+  def citation
+    {
+      "title" => @row["publisher"] || @row["publisher/repository"]
+    }
   end
 
   def rights_holder
@@ -49,7 +51,7 @@ class CsvToEsImage < CsvToEs
     # TODO after encoding is completed
   end
 
-  def subcategory
+  def category2
     "Images"
   end
 
