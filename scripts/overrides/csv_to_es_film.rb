@@ -41,7 +41,7 @@ class CsvToEsFilm < CsvToEs
 
   def citation
     {
-      "title" => "Archives & Special Collections, University of Nebraska-Lincoln Libraries"
+      "publisher" => "Archives & Special Collections, University of Nebraska-Lincoln Libraries"
     }
   end
 
