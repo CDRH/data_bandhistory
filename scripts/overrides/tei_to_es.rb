@@ -15,4 +15,9 @@ class TeiToEs < XmlToEs
   def spatial
   end
 
+  def category2
+    #changing from array
+    get_text(@xpaths["subcategory"])
+  end
+
 end
