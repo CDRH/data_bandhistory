@@ -7,7 +7,7 @@ class TeiToEs < XmlToEs
     }
   end
 
-  def image_id
+  def cover_image
     img = get_list(@xpaths["image_id"]).first
     "#{img}.jpg"
   end

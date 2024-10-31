@@ -27,7 +27,7 @@ class WebsToEs < XmlToEs
     # through as it appears
     all_p = @xml.xpath(@xpaths["person"])
     file_location = File.join(@options["collection_dir"], "source/authority/personography.csv")
-    personography = CSV.read(file_location, {
+    personography = CSV.read(file_location, **{
       encoding: "utf-8",
       headers: true,
       return_headers: true
@@ -36,7 +36,7 @@ class WebsToEs < XmlToEs
       id = p["data-person"]
       person_match = personography.find { |row| row["identifier"] == id }
       if person_match
-        { id: id, name: person_match["display name"] }
+        { "id" => id, "name" => person_match["display name"] }
       else
         puts "did not find person with id #{id}"
       end
@@ -44,12 +44,14 @@ class WebsToEs < XmlToEs
     all_p.uniq
   end
 
-  def publisher
-    get_text(@xpaths["publisher"])
+  def citation
+    {
+      "publisher" => get_text(@xpaths["publisher"])
+    }
   end
 
-  def subcategory
-    @options["webs"]["subcategory"]
+  def category2
+    @options["webs"]["category2"]
   end
 
   def uri

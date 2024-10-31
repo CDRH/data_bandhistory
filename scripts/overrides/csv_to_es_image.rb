@@ -29,13 +29,13 @@ class CsvToEsImage < CsvToEs
     @row["date"]
   end
 
-  def image_id
+  def cover_image
     "#{@id}.jpg"
   end
 
   def citation
     {
-      "title" => @row["publisher"] || @row["publisher/repository"]
+      "publisher" => @row["publisher"] || @row["publisher/repository"]
     }
   end
 
