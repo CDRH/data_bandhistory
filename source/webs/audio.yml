@@ -6,13 +6,13 @@
 
 audio: &audio
   category: Sights & Sounds
-  subcategory: Audio
+  category2: Audio
 
 # specific paths which can be filled out as follows:
 #  - path: /path/to/content    (required field)
 #    identifier: bh.acc.001    (required field)
 #    category: Category        (encouraged field)
-#    subcategory: Subcategory  (encouraged field)
+#    category2: Subcategory  (encouraged field)
 
 paths:
 

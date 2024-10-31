@@ -6,10 +6,10 @@
 
 accounts: &accounts
   category: Stories
-  subcategory: Personal Accounts
+  category2: Personal Accounts
 features: &features
   category: Stories
-  subcategory: Features
+  category2: Features
 
 # specific paths which can be filled out as follows:
 #  - path: /path/to/content    (required field)
