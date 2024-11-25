@@ -39,12 +39,6 @@ class CsvToEsFilm < CsvToEs
     @row["Keywords"].split(/; ?/) if @row["Keywords"]
   end
 
-  def citation
-    {
-      "publisher" => "Archives & Special Collections, University of Nebraska-Lincoln Libraries"
-    }
-  end
-
   def has_source
     {
       "title" => @row["Archives Reel"]
@@ -57,6 +51,10 @@ class CsvToEsFilm < CsvToEs
     # if we wanted to
     # TODO definitely SHOULD include Neihardt with his full label
     # from his own project, in order to show up in CDRH search results
+  end
+
+  def rights_holder
+    "Archives & Special Collections, University of Nebraska-Lincoln Libraries"
   end
 
   def text_additional

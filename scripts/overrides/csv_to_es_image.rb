@@ -43,7 +43,8 @@ class CsvToEsImage < CsvToEs
     @row["publisher"] || @row["publisher/repository"]
   end
 
-  def source
+  # TODO: using rights_uri for collection information for now
+  def rights_uri
     source_combine(@row)
   end
 
