@@ -54,6 +54,11 @@ class WebsToEs < XmlToEs
     @options["webs"]["category2"]
   end
 
+  # TODO: putting collection info in rights_uri for now
+  def rights_uri
+    get_text(@xpaths["source"])
+  end
+
   def uri
     File.join(@options["site_url"], @options["webs"]["path"])
   end
