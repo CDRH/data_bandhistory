@@ -19,7 +19,7 @@ require "csv"
 
 def read_csv(file_path)
   file_location = File.join(Dir.pwd, file_path)
-  CSV.read(file_location, {
+  CSV.read(file_location, **{
     encoding: "utf-8",
     headers: true,
     return_headers: true

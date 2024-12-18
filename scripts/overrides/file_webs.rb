@@ -4,7 +4,7 @@ require "yaml"
 class FileWebs
 
   def get_url_list
-    urls = YAML.load_file(self.file_location)
+    urls = YAML.load_file(self.file_location, aliases: true)
     # there are two types of yaml files in the webs directory:
     # straightforward, paths with metadata
     # less straightforward, we need to build the metadata from a range

@@ -8,7 +8,7 @@ class CsvToEsFilm < CsvToEs
     "Sights & Sounds"
   end
 
-  def subcategory
+  def category2
     "Footage"
   end
 
@@ -31,7 +31,7 @@ class CsvToEsFilm < CsvToEs
     "Film Clip"
   end
 
-  def image_id
+  def cover_image
     "footage%2F#{row["ID"]}.jpg"
   end
 
@@ -39,12 +39,10 @@ class CsvToEsFilm < CsvToEs
     @row["Keywords"].split(/; ?/) if @row["Keywords"]
   end
 
-  def publisher
-    "Archives & Special Collections, University of Nebraska-Lincoln Libraries"
-  end
-
-  def source
-    @row["Archives Reel"]
+  def has_source
+    {
+      "title" => @row["Archives Reel"]
+    }
   end
 
   def person
@@ -53,6 +51,10 @@ class CsvToEsFilm < CsvToEs
     # if we wanted to
     # TODO definitely SHOULD include Neihardt with his full label
     # from his own project, in order to show up in CDRH search results
+  end
+
+  def rights_holder
+    "Archives & Special Collections, University of Nebraska-Lincoln Libraries"
   end
 
   def text_additional
