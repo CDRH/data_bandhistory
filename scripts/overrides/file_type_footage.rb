@@ -39,7 +39,7 @@ module FileTypeFootage
       # using XML instead of HTML for simplicity's sake
       builder = Nokogiri::XML::Builder.new do |xml|
         xml.div(class: "main_content") {
-          xml.h1(row["Year"])
+          xml.span(row["Year"])
           xml.video(controls: "", preload: "none", poster: img_path) {
             xml.source(src: video_path, type: "video/mp4")
             xml.p("Your browser doesn't support HTML5 video. Here is a <a href=\"#{video_path}\">link to the video</a> instead")
