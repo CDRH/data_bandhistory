@@ -106,6 +106,9 @@
             <xsl:attribute name="class">
               <xsl:text>display&#160;</xsl:text>
             </xsl:attribute>
+            <xsl:attribute name="alt">
+              <xsl:value-of select="preceding::titleStmt/title[@type='main']"/>
+            </xsl:attribute>
           </img>
         </a>
       </span>
