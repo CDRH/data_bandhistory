@@ -89,7 +89,7 @@
             <xsl:text>&lt;a href=&#34;</xsl:text>
             <xsl:call-template name="url_builder">
               <xsl:with-param name="figure_id_local" select="$figure_id"/>
-              <xsl:with-param name="image_size_local" select="1000"/>
+              <xsl:with-param name="image_size_local" select="'1000'"/>
               <xsl:with-param name="iiif_path_local" select="$collection"/>
             </xsl:call-template>
             <xsl:text>" target="_blank" &gt;view larger image in new window&lt;/a&gt;</xsl:text>
