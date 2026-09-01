@@ -77,7 +77,7 @@
         <xsl:attribute name="class">
           <xsl:text>pageimage</xsl:text>
         </xsl:attribute>
-        <a class="gallery-image">
+        <a class="gallery-image" data-fancybox="gallery">
           <xsl:attribute name="href">
             <xsl:call-template name="url_builder">
               <xsl:with-param name="figure_id_local" select="$figure_id"/>
